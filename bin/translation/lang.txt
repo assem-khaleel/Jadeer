@@ -1,0 +1,2778 @@
+# of Students
+a Strategy
+A survey has not been set in the settings for the courses
+Abbreviation
+About
+About Me
+About Me Changed Successfully
+Absent
+Academic
+Academic Advising
+Academic Article
+Academic dishonesty
+Academic Dishonesty Policies
+Academic Information
+Academic plagiarism
+Academic Plagiarism Policies
+Academic Qualification
+Academic Qualifications
+Academic Rank
+Academic Ranks
+Academic Unit
+Academic Year
+Accepted for International Conference
+Account Settings
+Accreditation
+Accreditation Agency removed successfully
+Accreditation KPI
+Accreditation KPIs
+Accreditation KPIs Benchmarks Report
+Accreditation KPIs Details Report
+Accreditation KPIs Trend Report
+Accreditation Name
+Accreditation Progress
+Accreditation Status
+Accreditation Status Not Attached!
+Accreditation Status Not Found!
+Accreditation Status Settings
+Accreditation Status Successfully Saved
+Accreditation To Fill
+Accreditation To Review
+Accreditations
+Accredited
+Accredited Years
+Achievement
+Action
+Action Attachment
+Action has Entered
+Action List
+Action Plan
+Action Plan Description
+Action Plan List
+Action Plan removed successfully
+Action Plan Successfully Saved
+Action plans
+Actions
+Active
+Active Semester
+Activities
+Activity
+Activity Log
+Activity removed successfully
+Activity Successfully Saved
+Actual Benchmark
+Actual Performance
+Add
+Add More
+Add New
+Add Questions and control the layout and structure of your survey
+Addition
+Additions and Revision
+Additions and Revisions
+Address
+Administrative Work
+Administrative Works
+Advanced Competency
+Advising
+Advisings
+Agencies
+Agency
+agency already exist
+Agency Mapping
+Agenda
+Agenda Attachment
+Agenda topics that do not show a corresponding "Edit" button have had their owner deleted from the attendance.
+Agree (A)
+Agreement Attachment
+Agreement Date
+AIMS Integration
+All Campus
+All Campuses
+All College
+All Colleges
+All Course
+All Course Sections
+All Courses
+All Courses Form Generated Successfully
+All Deanship
+All Degrees
+All Department
+All field is Required
+All Languages
+All Program
+All Programs
+All Role
+All Section
+All Semesters
+All Types
+All Unit
+All Units
+All Years
+Alumni
+Alumni Center
+Alumni works
+An error encountered during importing the form
+An error encountered during revert the form
+Analysis
+analysis has Entered
+and above
+and The Min value is 0
+and the total of all rates must not exceed 100
+Annual Overall
+Annual Overall Administrative Work Contribution Performance
+Annual Overall Research Contributions Performance
+Annual Overall Societal Responsibility Performance
+Another Factor
+Apply
+Arabic
+Are you sure ?
+Are you sure you want to analyze this KPI.
+Are you sure you want to apply changes to the form?
+Assessed Students
+Assessment Component
+Assessment Components
+Assessment Loop
+Assessment Loop Type
+Assessment Method
+Assessment Method for this course
+Assessment Method Instance
+Assessment Methods
+Assessment Methods Dashboard
+Assessment Methods Defined
+Assessment methods defined in
+Assessor
+Assigned Date
+Assigned From
+Assigned To
+Assignment
+Assignment & Exams Management
+Assignment Date
+Assignment Description
+Assignment format
+Assignment has answers.
+Assignment has Published
+Assignment has unpublished.
+Assignment Mark
+Assignment Name
+Assignment Question
+Assignment Title
+Assignment/Exam Information
+Assignments
+Assignments Bank
+Assignments, Exams and Quizzes information
+Attachment
+Attendance
+Attendance
+Attendance at Meeting
+Attendance Policies
+Attendant
+Attended
+Attendee
+Attendees
+Audience
+Auditorium
+Author
+Author Rank
+Author Type
+authorization Error
+Authors
+Authors Count
+Authorship Contribution
+Available Support service
+Available support services
+Available support services for course
+Average
+Average contribution
+Average Evaluation
+Average Initiative
+Average participation
+Average Performance
+Avg. Overall
+Avg. Peer Assessed Score
+Avg. Personal Assessed Score
+Avg. Supervisor Assessed Score
+Award
+Award Title
+Awards
+Back
+Backup
+Backup Type
+Backups
+Balanced Scorecard
+Band Performance
+Band Performance Legend
+Band Performance Legend for Authorship Contribution
+Band Performance Legend for Paper Status
+Basic Foundation
+Begin by searching for a faculty member.
+Begin by searching for a student.
+Below Average
+Benchmarks
+Birth Date
+Body
+Book
+Book Title
+Books
+Both
+Browse
+Budget
+Build
+Building Size
+by
+Campus
+Campuses
+Can Edit
+Can not assign a committee for your program.
+Can not be changed in edit mode
+Cancel
+Cancel Copy
+Cancel Move
+Cannot remove the selected Role because it has a users with that role
+Cant edit this exam.
+Career Opening
+Catalogue information
+Category
+Category Name
+Category Settings
+Cell Phone
+Chairman
+Change
+Change Image
+Change Password
+Check All
+Check Answers
+Check Read
+Check Starred
+Check Unread
+Check Unstarred
+Check Your Email
+Child Goals of
+Child Objectives of
+Choice
+Choice
+Choose file...
+Choose Question Status
+Choose Question Type
+Choose Unit Head
+Cited Paper in ISI Journals
+City
+Class participation
+Class Participation Policies
+Classroom
+Classroom location
+Clear
+Clear Selection
+Click link to download
+CLO Result
+Close
+Code
+College
+College Benchmark
+College Defined
+College Goals
+College Keyword
+College Mission
+College Mission Keyword
+College Mission Keywords
+college mission Keywords to be displayed.
+college mission to be displayed.
+College Objectives
+College performance
+College Program Data
+College Report
+Colleges
+Colleges Scores
+Color
+Color is Required
+Comment
+Comment/Essay Box
+Comments
+Committee
+Committee Description
+Committee has Entered
+Committee Name
+Committee work will take place from
+Committees
+Competencies Dimension
+Complaint
+Complaints
+Completed
+Completing
+Completion Count
+Completion Rate
+Completion Rate Report
+Compliance
+Compliant
+Component
+Compose
+Computer Documentation
+Conference
+Conference Count
+Conference Name
+Conferences
+Confirm Password
+Confirm Password are not Match with Now
+Consistency (College Mission to Program Mission)
+Consistency (University Mission to College Mission)
+Construction Technique
+Contact definition
+Contact Email
+Contact info
+Contact Name
+Contacts
+Content
+Contract Attachment
+Contract Date
+Contract Type
+conversations have been marked as important.
+conversations have been marked as not important.
+conversations have been marked as unread.
+conversations have been moved to the Inbox.
+conversations have been moved to the Trash.
+Coordinator
+Coordinators
+Copy
+Copy an Existing Survey
+Core Component
+Correction
+Count
+Country
+Course
+Course Assessment Matrix
+Course Assessment Method
+Course Assessment Rubric
+Course calender
+Course Code
+Course Completion Rate
+Course description and education objectives
+Course Evaluation
+Course Grades
+Course Learning Domain
+Course Learning Outcome
+Course Learning Outcome Mapped to Survey
+Course Learning Outcomes
+Course Management
+Course Management has not been created!
+Course Manual
+Course Name
+Course No
+Course not found
+Course Number
+Course policies
+Course Portfolio
+Course Report Cover
+Course Report. CR Score
+Course Section
+Course Section ID
+Course Sections
+course sections to be displayed
+Course Specification Cover
+Course Specifications and Reports
+Course Specs. CS Score
+Course Status
+Course Statuses
+Course Students
+Course Title
+Courses
+Courses Accreditation
+cr.
+Create
+Create Role
+Created
+Created At
+Creative Work
+Creative Works
+Credentials
+Credit Hours
+Credit Hours is Required
+Criteria
+Criterias
+CS and CR completed for 2 years
+CS completed and CR started
+CS completed but No CR
+CS/CR Mean Score
+Current
+Current Deadline
+Current Year
+Curriculum
+Curriculum Mapping
+Custom Component
+Custom Items
+Custom Title
+CV
+CV & Report
+CV Attachment
+CV Text
+Dashboard
+Dashboards
+Data
+Data Capture
+Data to be displayed.
+Date
+Date Accredited
+Date format is correct
+Date From
+Date Must larger than current date
+Date period
+Date Range are Conflict with another deadline
+Date Range is Wrong
+Date Submitted
+Date To
+Date Visited
+Day
+Days
+Deadline
+Deadline successfully Saved
+Dean
+Deanship
+Deanship Id
+Debugging Tips
+Definition
+Definitions
+Degree
+Degrees
+Delete
+Deleted Successfully
+Demographics
+Department
+Department Name
+Department performance
+Department Report
+Departments
+Description
+Description Added
+Description for this Committee
+Description of this Document
+Design
+Detailed Report
+Details
+Developmental Planning
+Disagree (D)
+Display
+Dissemination Type
+Document history
+Document Statements
+Documentation
+Documents
+Documents to Review
+Domain
+Done
+Done
+Download
+Download As
+Download Attachment
+Due Date
+Due Date Exceeded
+Due Date Not Assigned
+Due Date not chosen yet
+Due Date Passed
+Due in
+Due Today
+Duration
+Easy
+Edit
+Edit & Resend
+Edition
+Elective
+Eligibility minimum requirement was added successfully
+email
+Email Already Exists
+Email is wrong
+Email me when
+Email Notifications
+Emergent Proficiency
+Employer
+Employers
+Enable Attachment
+End
+End date
+End Date must be on or after
+End Date must be on or before
+End Date should be after Start Date
+End Time
+End time Must be greater than start time
+End Time should be after Start time
+English
+Enrolled
+Enrolled Count
+Enter Action
+Enter Owner Name
+Enter your Email
+Epartments
+Equipment Documentation
+Equipment Title
+Equipments
+Equipments Management
+Error : Please try Again
+Error: Already Submit the Survey
+Error: Due Date has Passed
+Error: Eligibility minimum requirement already added
+Error: Invalid Email
+Error: Invalid Token
+Error: No System Selected, Please Select One
+Error: Permission Denied!
+Error: Please add 1 or more questions to the survey before continuing.
+Error: Please make sure you are Finished all Sub-Form
+Error: Please Select at least one conversation.
+Error: Please Select at least one group.
+Error: Please try again
+Error: This field has invalid value
+Error: This field is required
+Error: This field is required & should be a number
+Error: This field is required at least one parameter
+Error: You are not Active
+Error: You Don't have Permission
+Escalation
+Escalation Actions
+Escalation Level
+Escalation Levels
+Escalation Plans
+Evaluate as Manager
+Evaluate as Peer
+Evaluation
+Evaluation Management
+Evaluation Overall
+Evaluations
+Evaluator
+Exam
+Exam Date
+Exam has answers.
+Exam has Published
+Exam has unpublished.
+Exam Mark
+Exam Name
+Exam Removed Successfully
+Exam time run out
+Examination
+Examination Bank
+Example evaluation help text here.
+Exams
+Exams assigned to you
+Exams, Assignments and Quizzes
+Excellent Performance
+Exclude Not Started
+Existing Survey
+Experience
+Experiences
+Expiration
+Export
+External
+External Attendees
+External Benchmark
+External Benchmarks
+Facebook
+Factor
+Factor And Statement
+Factors
+Factors And Statements
+Faculty
+Faculty Actions
+Faculty are Founded
+Faculty Forms
+Faculty ID
+Faculty Name
+Faculty Performance
+Faculty Performance Deadline
+Faculty Performance Evaluation
+Faculty Performance Form Settings
+Faculty Performance From
+Faculty Performance Report
+Faculty Performance Settings
+Faculty Performance Type
+Faculty Performance Type Settings
+Faculty Portfolio
+Faculty Recommendation
+Faculty Report
+Fax
+Fax No
+Fax Number
+Female
+Female Faculty Members
+Field Experience Report Cover
+Field Experience Specification Cover
+field required
+Fifth Author
+File exceeds maximum allowed size.
+File Name
+File not found.
+File Repository
+File type not allowed.
+Files for
+Files has been attached
+Files Repository
+Filters
+Find Managers
+Find Members
+Find Strategic Planning
+Find Users
+Finish
+Finish Exam
+Finish Quiz
+First Name
+for
+for the course titled
+For Year
+Forgot your Password?
+Form
+Form Compliant
+Form has been successfully displayed
+Form has been successfully hidden
+Form Input
+Form Name
+Form Ongoing or Saved
+Form Partly Compliant
+Form Result Delete Successfully
+Form Saved and Finish
+Form Settings
+Form Successfully Add
+Form Type
+Form Type Evaluation
+Form Types
+Format information
+Forms
+Forms & Other Related Documents
+Forms & Upload Files
+Forms for This type
+Forms Type
+Fourth Author
+From
+From Date
+Full contribution
+Full Initiative
+Full Name
+Full participation
+Funds
+Funds Type
+Gantt
+Gender
+General
+General Info
+General Information
+General Report
+Generate
+Generate All Forms
+Generate Forms
+Generate PDF
+Generate Program Plan Courses Form
+Generate Strategy
+Get Shared
+Get Summary
+Go
+Go back
+Goal
+Goal not found
+Goal removed successfully
+Goal Successfully Saved
+Goals
+Good contribution
+Good Initiative
+Good participation
+Good Performance
+Grade
+Gradebook
+Grading
+Grading Policies
+Graduate Count
+Graduated
+Grant Date
+Graph to be Displayed
+Group
+Group Name
+Group should have members
+Groups
+Hard
+Help
+Hide
+High Mark
+Highly Cited Paper in ISI Journals
+History Date
+Hobbies
+Hole
+Homework problems
+HTML Report
+Id
+If Any
+If the KPI has multiple values and can be average
+If the values released per semester or academic year
+Illegal Inputs
+Image
+Impact
+Import
+Important
+in
+In Progress
+In-class exercises format
+Inactive
+Inbox
+Income Messages
+Independent Reviewer
+Independent Reviewers
+Information
+Initiate
+Initiative
+Initiative Milestone
+Initiative Milestone Successfully Saved
+Initiative removed successfully
+Initiative Successfully Saved
+Initiatives
+Input Label
+Insert Topic
+Instance
+Institution
+Institution Account
+Institution Benchmark
+Institution Criteria
+Institution Goals
+Institution KPI
+Institution Name
+Institution Objectives
+Institution Profile Tables
+Institutional
+Institutional Requirement
+Institutions
+Instructional and assessment methods
+Instructor information
+Integrate
+Integrate Objective
+Integration
+Intermediate Proficiency
+Internal Reviewer
+International
+International Accreditation
+Invalid code!
+Invalid College!
+Invalid Course
+Invalid Department
+Invalid Email
+Invalid Email or Password
+Invalid End Date
+Invalid Form Name
+Invalid Impact!
+Invalid Initiative!
+Invalid Kpi!
+Invalid Leader
+Invalid Name!
+Invalid Objective!
+Invalid Parent
+Invalid Phone Number
+Invalid Position
+Invalid Program!
+Invalid Risk!
+Invalid role name!
+Invalid start and end date
+Invalid Start Date
+Invalid Student
+Invalid Survey Id
+Invalid Target!
+Invalid Title
+Invalid Type
+Invalid Type Name
+Invalid Value
+Invalid Year
+Is Active
+Is Program
+Is Translated Book
+Is Workshop
+ISBN
+ISI
+ISSN
+Issues identified and remedied in CR
+It is a required filed to select date.
+It is a required filed to select one item.
+It's greater than
+Item
+items
+Job Position
+Jobs
+Key Performance Indicator
+Key Performance Indicator Tables
+Key Performance Indicators
+Keyword
+KPI
+KPI Achievements Level
+KPI Benchmarks
+KPI Category
+KPI Code
+KPI Details View
+KPI Dimensions only apply to Quantitative KPI types.
+KPI Escalation
+KPI Label
+KPI Legends
+KPI Measure Type
+KPI Polarity
+KPI Removed Successfully
+KPI Result
+KPI Results for the 5 Periodic Points
+KPI Saved Successfully
+KPI Stakeholder
+KPI Status
+KPI Successfully Saved
+KPI Title
+KPI Trend
+KPI Type
+KPI Value
+KPIS
+KPIs Benchmarks Report
+KPIs Categories
+KPIs Details Report
+KPIs Measure Type
+KPIs Trend Analysis
+KPIs Trend Report
+Lab
+Label
+Laboratory experiment format
+Lag
+Lag Kpi
+Lag Kpi removed successfully
+Lag Kpi Successfully Saved
+Lag KPIs
+Land Area
+language
+languages
+Last
+Last 5 Years
+Last Invitation
+Last Name
+Last Semester
+Lateness
+Lateness Policies
+Launch To All Courses
+Lead
+Leader
+Leadership
+Learning Domain
+Learning Domains
+Learning Domains Dashboard
+Learning Domains Indirect Assessment Results Dashboard
+Learning Outcome
+Learning Outcome in
+Learning Outcome Mapping
+Learning Outcome Target has been set successfully
+Learning Outcomes
+Learning Outcomes defined in
+Learning Outcomes Indirect Assessment Dashboard
+Learning Outcomes Scores
+Lecture Note
+Lecture time
+Legend
+Legends
+Less
+Level
+Level Color
+Level Description
+Level Label
+Level of Study
+Level Settings
+Level Title
+Levels
+Levels saved successfully
+License Info
+Link
+Linkedin
+Links
+List of Previous student projects
+Little contribution
+Little Initiative
+Little participation
+Loading
+Location
+Log
+Log Out
+Logged Successfully
+Login as
+Logs
+Low Performance
+Lowest Mark
+Main
+Major
+Major Strategies
+Major Strategy
+Majors
+Male
+Male Faculty Members
+Manage
+Management
+Managers
+Manual
+Manuals
+Map the PLO with Survey
+Mapping
+Mapping Matrix
+Mark
+Mark must be a number
+Mark must be larger than 0
+mark Must be less or equal to
+Marks
+Material Description
+Material Title
+Material Type
+Material Value
+Mean Score
+Means
+Measurable Objective
+Measure
+Measure has Entered
+Median
+Medium
+Meeting Committee
+Meeting Individual
+Meeting Minutes
+Meeting Reference
+Meeting Room
+Meeting Subject
+Meeting Title
+Member
+Members
+Membership
+Message
+Milestone
+Minimal contribution
+minimal Initiative
+Minimal participation
+Minutes
+Minutes Attachment
+Missed Assignment
+Missed Assignment Policies
+Missed Exam
+Missed Exam Policies
+Mission
+Mission Successfully Saved
+Mobile No.
+Month
+Months
+Moral Value
+More
+More Inputs
+More Notifications
+More Response
+Move
+Move Here
+Multiple Choice (Multiple Answers)
+Multiple Choice (Only One Answer)
+Must Be Greater than 0
+Must Be less than 100
+Must Be Real Number
+Must select Type
+My files
+My Groups
+My Portfolio
+My Tasks
+N/A
+Name
+Name is Required
+National
+National Accreditation
+Nationality
+NCAAA
+NCAAA Domain
+NCAAA KPI
+NCAAA KPI?
+NCAAA KPIs
+NCAAA out of All
+NCAAA Outcomes
+NCAAA Student Outcomes
+Negative
+Neutral (N)
+New
+New Action Plan
+New Benchmark
+New Email
+New Group
+New Material
+New Measure
+New Member
+New Password
+New Question
+New Works
+next
+Next Meeting
+Next Meeting Date
+Next meeting date should not set before meeting date
+Next Meeting Location
+Next Meeting Objectives
+Next step
+No
+No activities, Check projects dashboard
+No assignment defined
+No Changes
+No contribution
+No CS or CR done
+No Custom Items
+No data
+No direct script access allowed
+No equipments
+No Goals
+No goals to be integrated
+No Groups
+No Initiative
+No KPIs
+No KPIs to be display for this KPI type.
+No KPIs to be displayed
+No Meeting Reference
+No Messages
+No Notification
+No Objectives found.
+No objectives to be integrated
+No participation
+No Pending Surveys
+No Permission
+No Permissions
+No program selected
+No recommendations to be displayed
+No related program plan
+No results found for
+No Reviews
+No Semesters
+No Strategy Found, Please build a strategy
+No Strategy on this semester
+No Values
+No values to be displayed
+No. of Courses
+No. Of KPIs
+No. of Student Absent
+No. of Student Attendees
+No. of Student Passed
+No. of Student with Full Mark
+No. of Student with High Scores
+No. of Student with Low Scores
+Non-NCAAA KPI
+Normal Distribution Chart
+Not Accredited
+Not Applicable
+Not Completed
+Not Compliant
+Not Defined
+Not Reported
+Not Selected
+Not Specified
+Not Started
+Not Submitted
+Note
+Notes
+Notice
+Notification
+Notification Before
+Notification Name
+Notification Settings
+Notification settings saved successfully
+Notification Subject
+Notifications
+Notifications List
+Number of Colleges
+Number of Exams
+Number of faculty
+Number of Failed students
+Number Of Hours
+Number of Levels
+Number of levels has not been added
+Number of passed students
+Number of Programs
+Number of questions
+Number Of Sections
+Number Of Students
+Number of Years
+Objective
+Objective KPIs
+Objective Milestone
+Objective Milestone Successfully Saved
+Objective not found
+Objective removed successfully
+Objective Successfully Saved
+Objective Title
+Objective to be displayed.
+Objective with Aligned to Institutional Objective
+Objectives
+Objectives Result
+observation
+of Reviewers
+of Students
+Offered Program
+Office
+Office Hours
+Office Location
+Office No
+Office Number
+Old
+Old Password
+old password is incorrect
+Only integer value is allowed
+Operation not allowed!
+Option
+optional
+Options
+Oral
+Organization
+Organization Chart
+Original Language
+Original Researcher
+Original Type
+Other supporting author
+Others
+Outcome
+Outcomes
+Outcomes Results
+Overall
+Overall allowed
+Overall Band Performance
+Overall Band Performance based on SLOs
+Overall developmental action plan for academic year
+Overall Evaluation
+Overall Faculty Performance
+Overall Mark
+Overall Mean Avg. Score
+Overall Performance Band
+Overall Weighted Score
+Owner
+Owner Name
+Package
+Page
+Page Count
+Page From
+Page To
+Pages Count
+Paper In Progress
+Paper Status
+Parameter
+Params
+Parent Goal
+Parent Objective
+Parent Project
+Parent Unit
+Participation
+Participation Type
+Partly Compliant
+Party
+Passed
+Password
+Password Changed Successfully
+Password has been Successfully Changed
+Password Must Be Between 6 and 20 Digits
+Password reset
+Passwords not Matched
+Paste Here
+Path
+pdf
+Peer
+per accreditation statuses
+Percentage
+Performance
+Performance Achievement
+Performance Achievement for academic year
+Permission Denied
+Permissions Denied
+Personal
+Personal Email
+Personal Info
+Personal Information
+Perspectives
+Perspectives Legends
+PhD Holder
+Phone
+Phone Number
+Placeholders
+Plan
+Please add at least one assessment component
+Please add at least one Contact
+Please add at least one learning outcome
+Please add at least one Role & Responsibl
+Please add at least one Role and responsibility
+Please Add your options Separated by comma
+Please Check Due Date
+Please choice available status
+Please choose KPI Category / No KPIs found.
+Please Choose One Of Assessment Loop Type
+Please choose Program / No Course Learning Outcome found.
+Please choose Program / No Program Learning Outcome found.
+Please choose the review status
+Please click on survey to fill your survey
+Please Contact College / Program Admin
+Please enter
+Please Enter a Comment.
+Please Enter a Due Date For This Form
+Please Enter a Mark for this question
+Please Enter Accredited Years
+Please Enter Action
+Please enter Additions and Revisions
+Please Enter Agency Name
+Please Enter Analysis
+Please enter assessment method Title
+Please Enter Campus Name
+Please enter College Mission Keyword
+Please Enter College Name
+Please Enter Course Code
+Please Enter Course Name
+Please Enter Course Type
+Please Enter Criteria Code
+Please Enter Criteria Title
+Please Enter date
+Please Enter Degree Name
+Please Enter Department Name
+Please enter Description
+Please Enter duration time
+Please Enter end Date
+Please Enter end time
+Please enter File Title
+Please Enter Form Name
+Please Enter Institution Name
+Please Enter Item Code
+Please Enter Item Title
+Please Enter Kind
+Please enter learning domain Title
+Please Enter Major Name
+Please Enter Manual Label
+Please Enter Manual Link
+Please Enter mark
+Please Enter Measure Text
+Please Enter name
+Please Enter Notification Before
+Please Enter Notification Body
+Please Enter Notification Name
+Please Enter Notification Subject
+Please enter options
+Please enter Program Mission Keyword
+Please Enter Program Name
+Please Enter Recommendation Text
+Please Enter responsible
+Please Enter Result Text
+Please Enter Search Text
+Please Enter Section No.
+Please Enter Standard Code
+Please Enter Standard Name
+Please Enter start Date
+Please Enter start time
+Please Enter Student Status Name
+Please Enter Subject
+Please enter Text
+Please enter the key performance indicator or this is a duplicate KPI and strategy entry.
+Please Enter Time Frame
+Please enter Title
+Please enter Type
+Please Enter Unit Name
+Please enter University Mission Keyword
+Please Enter Valid Kind
+Please enter your options separated by comma
+Please Enter Your Password
+Please fill description field
+Please fill progress field
+Please Select  Employer
+Please Select 2 different Users
+Please Select a Course!
+Please Select a Student!
+Please select a valid type
+Please select Agency
+Please select an Assessment Method from left list
+Please Select Assessment Method
+Please Select at Least one Form.
+Please Select at least one Manager
+Please Select at least one Proctor
+Please Select at least Two User
+Please Select at lest one Teacher
+Please Select Campus
+Please Select College
+Please Select Course
+Please Select Criteria
+Please select date
+Please select Dean
+Please Select Degree
+Please Select Department
+Please select due date
+Please Select Field Type
+Please Select Form
+Please Select Leader
+Please Select Level
+Please Select Manager
+Please select Manuals
+Please Select Material Type
+Please select NCAAA learning domain
+Please Select on Of the Forms type to show the forms
+Please Select Proctor
+Please Select Program
+Please select Program chair
+Please select Projects
+Please Select Question
+Please Select Question Status
+Please Select Question Type
+Please select responsible
+Please select Reviewer
+Please Select Role
+Please select room
+Please Select Semester
+Please Select Standard
+Please select Status
+Please Select Survey
+Please Select Teacher
+Please select the major strategy or this is a duplicate KPI and strategy entry.
+Please Select the Unit Type
+Please Select User
+Please Select Year
+Please specify at least one recipient.
+Please Try Again
+PLO
+PLO Result
+PLO to NCAAA
+PLO to Program Objectives
+Points
+Polarity
+Policies & Management
+Policies & Procedures
+Policies & Procedures Manager
+Policies & Procedures Managers
+Policy / Procedure Title
+Policy & Procedure Name
+Poor Performance
+Portfolio
+Portfolio Course
+Portfolios
+Position
+Positive
+Postgraduate
+Practical
+Pre-Visit Reviewer
+Preparatory Year
+Preparatory Year Report
+Preview
+Preview Evaluation
+Preview Survey
+previous
+print
+Print Survey
+Private
+Procedures
+Process based
+Process Or Result
+Proctor
+Proctors
+Proficiency
+Profile
+Program
+Program & Institution Criteria
+Program Agencies
+Program Assessment Component
+Program Assessment Method
+Program by Level Enrolled
+Program Chair
+Program Criteria
+Program Faculty Profile
+Program Goals
+Program Graduates & Enrolled
+Program Keyword
+Program Learning Domain
+Program Learning Outcome
+Program Learning Outcome Mapped to Survey
+program learning outcome PLOs to be displayed.
+Program Learning Outcomes
+Program Linked to this course
+Program Management
+Program Management has not been created!
+Program Mapping Matrix
+Program Mission
+Program mission keyword
+Program Mission Keywords
+program mission Keywords to be displayed.
+Program Mission to Program Objectives
+Program Name
+program objactives to be displayed.
+Program Objective
+Program Objective Keywords
+program objective keywords to be displayed.
+program objective to be displayed.
+Program Objectives
+program objectives to be displayed.
+Program Outcome
+Program performance
+Program Plan
+Program Report
+Program Report Cover
+Program Specification and Report
+Program Specification Cover
+Program Specifications and Report
+Program Specifications and Reports
+Program Tree
+Program Tree Chart
+Programmatic
+Programs
+Programs Accreditation
+programs in
+Programs of
+Progress
+Progress must be equal or greater than zero
+Progress must be equal or less than 100
+Project
+Project grading guideline
+Project Name
+Project not found
+Project removed successfully
+Project Saved Successfully
+Projects
+Publication
+Publication Count
+Publication in Conference Proceedings
+Publication in ISI Journals
+Publish
+Publish Assignment
+Publish By Date
+Publish Date
+Publish Exam
+Publish Now
+Publish Type
+Published In
+Publisher
+Push to AIMS
+Push to AIMS Note
+Q
+QMS Course Management
+QMS Program Management
+Qualitative
+Qualitative KPI
+Quality
+Quantitative
+Quantitative KPI
+Quarter
+Question
+Question already selected
+Question Bank
+Question Choices
+Question Description
+Question Note
+Question number
+Question Removed Successfully
+Question Status
+Question Type
+Questions
+Questions for the selected assessment method
+questions for this assignment
+Questions for this exam
+Questions for this Quiz
+questions number
+Questions Saved Successfully
+Quiz
+Quiz Date
+Quiz has Started
+Quiz has Stopped
+Quiz Mark
+Quiz Name
+Quiz Removed Successfully
+Quiz's
+Rank
+Rank Date
+Rate Added Successfully
+Rate must be larger than 0
+Rate must be Less than 100
+Rate Must be Less than the Rates of each Form Type
+Rate must be Numeric
+Rate Percentage
+Rate Value
+Ratio of programs in
+Read More
+Reason
+Reason for policy
+Recommendation
+Recommendation deleted successfully
+recommendation has Entered
+Recommendation List
+Recommendation Saved Successfully
+Recommendation Type
+Recommendation Types
+Recommendations
+Recommendations & Complaint
+Record has Entered
+Record has not Deleted
+Reference
+Reference Meeting
+Reference Name
+Refresh
+Regulations
+Related regulations statutes and related policies
+Release Date
+Reload
+Remember me
+Remind
+Remove
+Remove Offered Program
+Removing this keyword will destroy all its existing relationships
+Report
+Report Attachment
+Report deleted successfully
+Report Details
+Report For
+Report Name
+Report Saved Successfully
+Report Text
+Report Title
+Reporting
+Reports
+Require an answer to this Question
+Required
+Required Action Plan
+Required and recommended materials
+Required Email
+Required End Date
+Required Factor title
+Required Field
+Required Fields Missing
+Required Filed
+Required Materials
+Required Name
+Required Password
+Required Project
+Required Question
+Required Question choice
+Required Start Date
+Required Statement abbreviation
+Required Statement title
+Required Title
+Required, recommended and support materials
+RequiredStatement title
+Research
+Research Budget
+Research Budget Actual Expenditure
+Research Budget Total Amount
+Research Center
+Research Number
+Research Paper
+Research Statistics
+Research Subject
+Research Title
+Researcher
+Researches
+Reset
+Reset Password
+Resources
+Respondent
+Response
+Responsibilities
+Responsible
+Restore
+Result
+Result based
+Result has Entered
+Results
+Resume
+Review
+Reviewer
+Reviewer already selected
+Reviewer Area
+Reviewer CV
+Reviewer CV Attachment
+Reviewer CV Text
+Reviewer Info
+Reviewer Information
+Reviewer Name
+Reviewer Report
+Reviewer Report Attachment
+Reviewer Report Text
+Reviewers
+Reviewers List
+Risk
+Risk Successfully Saved
+Risk Tab
+Risk Tabs
+rogram mission to be displayed.
+Role
+Role Name
+Role removed successfully
+Role Successfully Saved
+Role Type
+Roles
+Roles & Responsibilities
+Room
+Room Equipments
+Room Information
+Room Management
+Room Number
+Room Number Must Be Larger than 0
+Room Title
+Room Type
+Run
+Save
+Save & Finish
+Save & Go Next
+Save & Next
+Save and Continue Later
+Save Changes
+Save Update
+Saved Successfully
+Scale
+Scaled Scoring Performance
+Schedule
+Scheduled Tasks
+Score
+Score Must be Greater than 0
+Score must be less than
+Scripts
+Search
+Second Author
+Section
+Section #
+Section Information
+Section Name
+Section No
+Section Number
+Sections
+Sections Extra info
+Select
+Select a College
+Select a Standard
+Select Agency
+Select All
+Select at least one Learning Outcome
+Select KPI
+Select Level
+Select Member
+Select Offered Program
+Select One
+Select Owner
+Select Program
+Select Sections
+Select Survey
+Select the Recommendations
+Select value
+Selected
+Self Study Report
+Self Study Reports
+Self-Evaluation Scale Report Cover
+Self-Study Report Cover
+Semester
+Semester Based
+Semesters
+Send
+SEND PASSWORD RESET LINK
+Send SMS when
+Send To Review
+Sent mail
+Serial No.
+Server IP
+Service
+Service Time
+Services
+Set Due Date
+Set Level Description
+Set Plan
+Set Rate
+Set Score
+Set Values
+Settings
+Settings for SMS
+Settings Saved Successfully
+Share
+Show
+Show Details
+Show More
+Show on Public
+SIGN IN
+Sign In to your Account
+Skill
+Skill, Question or Dimension
+Skills
+Skills, Questions or Dimensions
+Sleep
+SMS Notifications
+Social
+Social Information
+Some users not exist
+SOMETHING WENT WRONG!
+Sophisticated Competency
+Source
+Source Deleted
+Speciality
+Split Page Here
+SSR Accreditation
+Staff
+Stakeholder
+Standard
+Standards
+Standards Overall Quality Metrics
+Start
+Start date
+Start Date must be before End Date
+Start Date Must be Less than End Date
+Start Date must be on or after
+Start Date must be on or before
+Start Date Must equal or Larger than the current date
+Start Exam
+Start Quiz
+Start Time
+Started on CS and CR
+Starting
+Statement
+Statements
+Statistics
+Statistics Reports
+Status
+Status Name
+Stop Quiz
+Strategic KPI
+Strategic KPIs
+Strategic KPIs Benchmarks Report
+Strategic KPIs Details Report
+Strategic KPIs Trend Report
+Strategic Objective
+Strategic Planning
+Stream
+String
+Strongly Agree (SA)
+Strongly Disagree (SD)
+Student
+Student Assessment
+Student Assessment Matrix
+Student Assessment Rubric
+Student Assessment Successfully Saved
+Student Attendance
+Student Count
+Student Exam
+Student ID
+Student Marks
+Student name
+Student Number
+Student Portfolio
+Student Portfolios
+Student Score
+Student Score Successfully Saved
+Student Status
+Student Statuses
+Student Work
+Student Work Management
+Students
+students are Founded
+students assigned to this course section.
+Students Attendance
+Students Count
+Students for this Exam
+Students number
+Students Scores
+Sub Goals
+Sub Menu
+Sub Objectives
+Sub Projects
+Subject
+Subject Taught
+Submission Date
+Submission Type
+Submit
+Submitted
+Successful Delete
+Successfully Added
+Successfully Changed
+Successfully Copied
+Successfully Created
+Successfully Deleted
+Successfully Moved
+Successfully Reminded
+Successfully Saved
+Successfully Sent
+Successfully Shared
+Successfully Split
+Successfully Update
+Summary
+Summary (Details)
+Supervision
+Supervision Type
+Supervisions
+Supervisor
+Supervisor Name
+Support Material Management
+Support Materials
+Support Party
+Survey
+Survey has been successfully launched.
+survey results
+Survey Statement
+Survey Title
+Surveys
+Surveys Preview
+Surveys to Take
+Syllabus
+Syllabus Fields
+Syllabus Management
+System Groups
+Table 2. Preparatory or Foundation Program
+Table 3. Program Data
+Table 4. Summary of Programs' Teaching Staff
+Table 5. Numbers of Graduates in the Most Recent Year
+Table 6. Mode of Instruction – Student Enrollment
+Table 7. Mode of Instruction – Teaching Staff
+Table 8. Program Completion Rate/Graduation Rate
+Take Exam
+Take Survey
+Target
+Target Benchmark
+Task
+Task Text
+Task Title
+Tasks
+Tasks Given
+Teachers
+Teaching Material Management
+Teaching Materials
+Teaching Staff Count
+Teaching work load
+Term
+test
+Text
+THANK YOU!
+The budget value can not be less than 0
+The College was added in this system
+The component review is:
+The conversation has been marked as important.
+The conversation has been marked as not important.
+The conversation has been marked as unread.
+The conversation has been moved to the Inbox.
+The conversation has been moved to the Trash.
+The course has been initiated
+the deadline range not set, please contact the administration to get a new deadline
+The Group/s has been deleted.
+The max value is
+The maximum rate value is
+The program has been initiated
+The quiz date has not been published yet.
+The resource you requested does not exist!
+The responsible users of this branch:
+The selected course does not have the selected assessment method
+the selected project has activities
+the selected project has sub-projects
+the weight value should be between 1 and 10.
+Theme Settings Saved Successfully
+There are no
+There is
+there is a room already taken in this date and this time
+There is no
+These Inputs  have results, to remove it make sure that all result are remove
+Thesis Title
+Third Author
+This Assessment Method not used in this Course
+This Assessor Has been Selected Before
+This Committee is mapped with Meeting, You Can't remove it
+This Course has not been assessed yet
+This Deadline Forms has data, You can't remove it
+This Equipment is mapped with Room, You Can't remove it
+This Field is Required
+This field must be a Number
+This form are hidden, Please select another form
+This Form has a result,You can't Add any Input
+This form has been imported Successfully
+This form has been reverted Successfully
+This form has removed, You can't see it anymore
+This Form has results, to remove it make sure that all result are remove
+This is a duplicate KPI and strategy entry.
+This is a required field
+This meeting has done. you cannot edit anymore
+This Process Will take a few Moments
+This quiz not start yet
+This Reviewer Has been Selected Before
+This Room is mapped with Meeting, You Can't remove it
+This Section is not Available in this Semester
+This student does not attend this course
+This Student Has not been Assessed yet
+This survey does not have a "Factor and Statement" question type.
+This survey was created by another user you cannot edit the layout or the survey structure
+This text is displayed if your browser does not support the Canvas HTML element.
+This type has forms, to remove it make sure that all forms & result are remove
+This user is exist
+This user will be assigned to his college or program automatically
+This value exceeds the remaining Action Plan budget balance of
+This value exceeds the remaining Objective budget balance of
+This value is less than the sum of all the Action Plans' budget of
+This value is less than the sum of all the Projects' budget of
+Thises Title
+Time Frame
+Title
+To
+to
+To another server
+To be alerted
+To date greater than from date
+To google account
+To the server
+Topic
+Topic Title
+Topics
+Total # of students
+Total of marks for all question must be equal to
+Total of rate type must be less than 100
+Total performance
+Tracks
+Training Title
+Trainings
+Translated Book
+Translation
+Translations
+Trash
+Tree
+Trend
+Troubleshooting Tips
+Twitter
+Type
+Type Invalid!
+Type name
+Type Rate
+Type Settings
+Type Successfully Add
+Type Title
+Type1: Analysis based on all Quality Metrics Standards
+Types
+Unacceptable
+Uncheck All
+Under Maintenance
+Undergraduate
+Unimportant
+Unique Field
+Unit
+Unit Goals
+Unit Head
+Unit Objectives
+Unit Type
+Units
+University
+University Keyword
+University Logo
+University Mission
+University Mission Keyword
+University Mission Keywords
+university mission Keywords to be displayed.
+University Mission Title
+university mission to be displayed.
+University Mission to College Mission
+University performance
+University Report
+Unknown
+Unlimited
+Unpublish
+Unread
+Update
+Update Info
+Upload Attachment
+Used in Exams
+User
+User Contact Info
+User Info
+User List
+User Login Info
+User Name
+User Name or Email
+User Personal Info
+User Removed Successfully
+User Successfully Saved
+Users
+Value
+Value not found
+Value removed successfully
+Value Successfully Saved
+Values
+Vice Rectorate
+View
+View Assignment
+View Exam
+View File
+view your launced surveys and edit them
+Vision
+Vision & Mission
+Vision Successfully Saved
+Visit Reviewer
+Visit Reviewers
+Visited
+Warning
+Warning, Changing this number will affect the saved levels in each KPI
+WE'VE ALMOST DONE!
+Website
+Weight
+Weights
+Where to find
+with all agencies
+within
+Wizard Step 1
+Wizard Step 2
+work
+Work List
+Work Successfully Saved
+Works
+Works Removed Successfully
+Writing
+Wrong Text Entered
+Xls
+Year
+Year is not valid
+Years
+Yes
+Yes / No
+you are already added this KPI!
+You are Independent Reviewer.
+You are not exam creator
+you can not change the rate because deadline is started
+You can not change this to a blank value
+You can not delete this question
+You can not edit this assignment
+You can not edit this exam
+You can not edit this question
+You can not edit this quiz
+You can not have more than one Course - Accreditations per Semester.
+You can not have more than one Institutional - Accreditations per Year.
+You can not have more than one Program - Accreditations per year.
+You can not have more than one SSR - Accreditations per 2 year.
+You can not leave this to a blank value
+You can not start this exam
+You can not start this quiz
+You can search for a faculty member by his/her name or email
+You can search for a student by his/her name or email
+You Cant Leave It Empty
+You Don't have any notifications
+You have already answered this survey.
+You have no evaluation requests.
+You have nothing to review
+You have nothing to fill
+You have to add at least one field.
+you have to add choices
+You have to enter task
+You have to enter title
+You have to fill this field
+You have to insert at least one user
+You have to select at least one user
+You have to select user
+You have to set correct answer
+You must add at least one form input
+You must fill rate input
+You must insert this Field
+You must select one of committee
+You will lose your changes when closing the form without saving.<\br><\br>Are you sure you want to continue?
+Your Link is inactive
+Your Plan
+Mission & Vision
+am
+pm
+Error
+The uploaded file exceeds the upload_max_filesize directive in php.ini
+The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in the HTML form
+The uploaded file was only partially uploaded
+No file was uploaded
+Missing a temporary folder
+Failed to write file to disk
+Unknown upload error
+Top-Level Management (CEO, General Manager, Director)
+Mid-Level Management (Manager, Dept. Head)
+Operational Management (Supervisor, Unit Head)
+> 1 year
+2 to 3 years
+4 to 6 years
+7 to 10 years
+< 10 years
+Managers and executives
+Professional staff
+Technician and specialized staff
+Intermediate staff
+Other
+Public Administration - federal, provincial, municipal
+Education
+Health Services
+Social Services
+Legal Services
+Recreational Services/Tourism/Art & Culture/Leisure
+Accommodation and Food Services
+Engineering/Technology
+Transportation/Utilities (e.g. hydro, water)
+Commerce/Finance/Accounting/Marketing/Banking
+Retail/Wholesale Trade
+Manufacturing/Construction
+Agriculture/Forestry/Fishing/Mining/Environmental
+Tutor
+Teaching Assistant
+Lecturer
+Assistant Prof.
+Associate Prof.
+Professor
+College Administrators
+Faculty Members
+Instructors & Lecturer
+1 to 3 years
+11 to 15 years
+16 to 20 years
+21 to 25 years
+> 25 years
+Unit Administrators
+Staff Members
+First
+Second
+Third
+Fourth
+Fifth
+Sixth
+One Time
+Daily
+Weekly
+Monthly
+Not Admin
+Program Admin
+Department Admin
+College Admin
+Institution Admin
+You Have to fill all your institution information before start work
+To Date
+login
+Colleges / Programs
+Modules
+University Name not set
+College Name not set
+Program Name not set
+Setup
+Cli
+Job
+Date Released
+theoretical
+practical
+Sent Tasks
+Time
+General Information (Mission,Vission,Objectives and Goals) Can't set Until set the Information of
+This program has not yet started the accreditation process.
+This program has some accreditation activities but is not yet qualified to apply for accreditation.
+This program is currently working on filling for accreditation.
+This program has filed for accreditation.
+This program has been visited by the accreditation agency.
+This program is accredited.
+This program is not accredited.
+Score (%)
+orm_unit_rector
+orm_unit_vice_rector
+orm_unit_college
+orm_unit_admin
+list
+doc_repo
+committee_work
+policies_procedures
+read
+survey_courses
+survey_students
+survey_faculty
+survey_staff
+survey_alumni
+survey_employer
+Info
+Login Info
+Full Time
+Part Time
+Elementary proficiency
+Limited working proficiency
+Professional working proficiency
+Full professional proficiency
+Native or bilingual proficiency
+Junior
+Intermediate
+Expert
+Shared
+Single
+National Journal
+International Journal
+National Conference
+International Conference
+Secretary
+Doctoral
+Master’s
+Bachelor’s
+Thesis
+Main Author
+Co – Author
+Exhibition
+Used by others
+Internal
+Course Evaluations
+Quality Efforts Contribution
+Research Contributions
+Administrative Work Contribution
+Societal Responsibility Contribution
+and above
+Band Performance Legend for work contribution (as reported in Faculty Portfolio. Assessment is on % of initiative taken for work accomplished)
+Band Performance Legend for Initiative (As reported in Faculty Portfolio. Assessment is on % of initiative taken for work accomplished)
+First Author (100% for sole author)
+Work as assigned (e.g. Committee, additional departmental work, etc.) Please describe
+Admin. Work Score (%)
+Band Performance Legend for participation contribution (as reported in Faculty Portfolio. Assessment is on % of initiative taken for work accomplished)
+Societal Responsibility Score (%)
+Overall Performance Score (%)
+saturday
+sunday
+monday
+tuesday
+wednesday
+thursday
+friday
+admin_entered_due_date_to_node
+admin_add_user_on_node
+assessor_finished_entering_forms_data
+all_form_data_enterd_and_checked_correctly
+form_data_incorrect_or_not_enterd
+survey_invitation
+survey_alumni_invitation
+survey_employer_invitation
+survey_reminder
+forgot_password
+alumni_employer_created
+email_received
+remind_user_to_fill
+Required Material
+Recommended Material
+Support Material
+Course Learning Outcome (CLO)
+teaching_material
+support_material
+Syllabus Catalogue Info
+Syllabus Instructor Info
+Syllabus Required Materials
+Syllabus Course Description
+Syllabus Course Calendar
+Syllabus Course Policies
+Syllabus Support Service
+Teaching Material
+Support Material
+No changes according to the last result
+Better than last result
+Worst than last result
+Achieved on time
+Not achieved on time
+learning_and_growth
+internal_processes
+customer
+finance
+Perspective(s)
+Perspective
+Orm_Al_Assessment_Loop_Custom
+Orm_Al_Assessment_Loop_Objective
+Orm_Al_Assessment_Loop_Clo
+Orm_Al_Assessment_Loop_Plo
+Orm_Al_Assessment_Loop_Kpi
+Refresh
+Between any two different deadlines must be one day
+Introduction
+Proficient
+Advanced
+Assignment Bank
+Student Attendees
+Find Course Learning Outcome
+Find Program Learning Outcome
+You have to choose course
+You have to choose program
+College not exist
+Program not exist
+Manage phases
+Bad request please try again!
+Invalid phase name
+Phase Deleted Successfully
+There's no project!
+There's no type of project belong to your request!
+Manage sub-phases
+Invalid sub-phase name
+Invalid sub-phase responsible
+Sub-phase Saved Successfully
+Sub-phase Deleted Successfully
+Display Project Progress
+Phase
+Strategic Projects
+Customized Projects
+Assigned sub-phases
+Create new sub-phase
+Sub-phase Name
+Sub-phase responsible
+This phase has no actions yet
+This project has no phases yet
+Phase Name
+phases
+There is no projects created by you!
+Sub-phases Assigned to me
+Sub-Phase info
+Work progress
+Phase
+Project
+Sub-phase
+Uncompleted
+sub-phases assigned to you
+Sub-Phase
+responsible
+Project Management
+There is no projects to manage !
+Award Management
+Award Name
+Award Description
+Award Candidate
+Select Candidate
+Find Candidate
+Award Winner
+Find winner
+Received award
+Candidate
+Candidate Name
+Created By
+Candidate Management
+Winner Management
+Award Settings
+Winner
+Select Winner
+Award Information
+Award has Entered
+Award Date
+Winner for this award
+Candidate for this award
+Description for this Award
+This Award has candidate user, You Can't remove it
+This Award has winner user, You Can't remove it
+This winner has received award , You Can't remove it
+This user already has won this award
+Award
+Candidates
+Create new project
+Create new phase
+This phase has sub-phase/s with start date less than selected date
+This phase has sub-phase/s with end date bigger than selected date
+Budget should hold a numeric value
+This project has phase/s with start date less than selected date
+This project has phase/s with end date bigger than selected date
+Sub-phase Status
+Training Management
+General Training Management
+The request for joining this training  successfully sent
+Training
+Training Request
+Request Approved successfully
+Request Ignored successfully
+Please Enter Duration
+Please Enter Date of Training
+Please Select Type
+Please Enter Location
+Please enter Instructor Information
+Please enter Outline
+Please Select at least one college
+Please Select at least one Program
+This training are mapped with survey you can't remove it
+This type mapped with a training, you can't remove it
+Certified Members
+Please select a Certified Member
+Invited Successfully
+Before
+After
+Public
+Private
+Organizations
+Are you sure that you want Join training?
+Join
+Pending
+Approve
+Ignore
+Requests
+Certified Member
+Survey Mapped with this training
+Invite
+Training Management Type
+Training Status
+Survey Mapping
+Manage Survey
+Training Date
+Training Duration
+Training Location
+Training Organization
+Outlines
+General Description
+Memebers
+survey_training
+join_training
+You Must select at Least one Student
+Meeting Advising Group
+join_training
+ignore_training
+approve_training
+survey_advisory
+All Gender
+admin
+success
+Receiver Role
+Receiver Email
+Receiver Name
+Sender Role
+Sender Email
+Sender Name
+Review Comment
+Review Status
+Process Status
+Node Name
+Team Formation
+Advisory
+Assessment Metric
+General Feedback
+Industrial Skills
+Risk Management
+Skills Transcript
+Highest Mark
+Please choose a test.
+Per page
+you will lose learning outcomes if you change the type several times
+Learning Domain Types
+Domain Type
+Please select learning domain type
+Rubrics
+Assigned To Me
+You miss answer this skill
+Answer Saved Successfully
+Select Student
+Can't leave this field empty
+This Rubric has answers
+Skill value Total should not greater than 100
+Skill value Total should not Less than 100
+Inputs incorrect
+Sections was added successfully
+for
+institution
+program
+Push To AIMS
+Target should hold a numeric value
+Target Should Be Bigger Than 0
+Target Should Be Less Than Or Equal 100
+All surveys
+All tests
+Target must be equal or greater than zero
+Select Domain Type
+IPMA-Matrix
+Assessment Matrix
+Introduced
+Practiced
+Mastery
+Assessed
+PLO has not Assessment Method
+PLO has Assessment Method
+Sum Of Weight Should be Less Than 100
+Weight Should Be Bigger Than 0
+Weight Should Be Less Than Or Equal 100
+Component Value Should Be Bigger Than 0
+Assessment Plan
+Course Assessment Plan
+Average Should Be Less Than Component Value Or Equal
+Average Should Be Bigger Than 0
+All Domains
+Please Choose One Of Assessment Metric Type
+Orm_Am_Assessment_Metric_Objective
+Orm_Am_Assessment_Metric_Clo
+Orm_Am_Assessment_Metric_Plo
+Orm_Am_Assessment_Metric_Kpi
+Scale Count can't use be less than
+Assessment Plan Title
+PLO - CLO Matrix
+C.L.O
+X-Matrix
+X-Matrix to be displayed
+P.L.O
+CLO Keywords
+Add Component
+Component Value
+Assessment Weight
+Gradebook type
+Survey type
+B1 (0% to 10%)
+B2 (11% to 30%)
+B3 (31% to 50%)
+B4 (51% to 65%)
+B5 (66% to 85%)
+Inputs count not correct
+B6 (85% to 100%)
+Weight value should be between 0-100
+Rubric not ready to publish
+Learning Domains Types
+Date entered is not correct
+Static Forms
+Assessment Metric Name
+Assessment Metric Level
+Advance
+Simple
+Assessment Metric Type
+Rate date is not correct
+Click Here
+Rubric has unpublished
+Please choose an exam
+Manage Invitation
+Assessment Analysis
+Final Result
+Weakness
+Strength
+Rubric Invitations
+Invitations
+Orm_User_Staff
+Orm_User_Student
+Orm_User_Faculty
+From GradeBook
+None
+Sum of Assessment Weight Should be 100 to View The Result and Final Result
+Final Result VS Target
+Weakness has Entered
+Strength has Entered
+Inactivate
+Are you sure You want to Inactive this user?
+User Activate Successfully
+Activate
+User inactivate Successfully
+Orm_Rb_Rubrics_Course
+Orm_Rb_Rubrics_Service
+Orm_Rb_Rubrics_User
+Summative
+Formative
+Please Choose One Of Rubric Classification
+You have to select course
+Select Course
+Student list
+You have to enter service description
+Select User
+Invitation
+Date Added
+Number of scales
+Weight Type
+Rubric Classification
+Classification
+Scales
+Criterion
+Faculty Didn't Submit Form
+Assigned Rubrics
+Answer
+Unpublished
+Time Range
+Number of Evaluated Skills
+Available Candidates
+Please add at least one Input
+Award Received
+Recieved
+Not Recieved
+Number of Assignments
+Please Select Users
+Advisory Survey Evaluations
+Student Members
+Meeting
+Meeting List
+Program Advisory Performance
+The Avengers
+Advisory Meetings
+Rooms
+Members in this club
+Search In Subscribe Club
+My Clubs
+Member in clubs
+Invite to join clubs
+Most active clubs
+club created
+clubs to join
+clubs you invited to
+clubs you requested to join
+Wall
+Post
+Now
+Member Name
+Member Type
+Admin
+Club Creator
+The club policies
+Search In My Club
+Search In Invite Club
+Request To Join clubs
+Your Clubs
+Admin Clubs
+Posts privilege
+Gender privilege
+Anyone can Post
+Must approve the posts by admins and moderators
+Only the admins can post
+Both Gender can Join the group
+Only Male can Join the group
+Only Female can Join the group
+Remove Member
+Set Admin
+Unset Admin
+Set Admin Successfully
+Unavailable Resource
+Unset Successfully
+Invite Members
+You do not have any clubs
+Committee Information
+Committee has Entered
+Please Select at least Two Members
+Equipment
+Equipment Management
+Search Sub Phases
+Program Reports
+Course Reports
+X-Matrix for
+OBJ
+PLO to Program Objectives for
+Program Objectives Legends
+Program Learning Outcomes Legends
+Assessment Loops for
+Assessment loop Programs  to be displayed
+Course Learning Outcomes Legends
+No Result
+Skill Name
+Score Note
+Score Name
+Download PDF
+2 to 4 years
+5 to 7 years
+8 to 10 years
+Looking for Job
+Continuing Further Studies
+Employed in Public Sector
+Employed in Private Sector
+Managers and executives
+User Login ID
+Other
+High
+Very likely to occur
+Some chance of occurrence
+Low
+Risk Management Type
+Likely
+Severity
+It is a required Field to select one item.
+Please Choose One Of Risk Management Types
+Initiative Result
+Initiative Title
+Related Objective
+Please choose Action Plan / No Action Plan found.
+Action Plan Title
+Related Initiative
+Action Plan Result
+Please choose Projects / No Project found.
+Project Title
+Projects Result
+Please choose activity / No activity found.
+Related Project
+Activities Result
+Records have been Entered
+Risk Level
+Risk Management Matrix
+Risk Management Information
+Risk Title
+Risk Type
+Risk Evaluation
+Risk evaluation = Likely * Severity
+Risk Treatments
+Risk Description
+Extract to
+Rubric Name
+General Training
+Creator
+Outline
+Personal Training
+Select Element
+Strategic Period
+Please Enter perspective Text
+Learning Domains Type
+Select Faculty Members
+Unit Not Selected
+Unit Responsible
+From (Year)
+To (Year)
+Service Description
+Find Courses
+scale_count
+scale_text_en
+scale_text_ar
+Industrial Skills Name
+Choose Rubrics
+room please go to room management and add one
+Clubs
+Discover
+clubs to discover
+Search For Club
+Discover Club
+Your not admin on any clubs
+Club
+Select Legend
+Undergraduate - Bachelor
+Undergraduate - Diploma
+Postgraduate - High Diploma
+Postgraduate - Master
+Postgraduate - Doctor
+Assessment Plans
+Assessment
+CLO keywords to be displayed
+PLO keywords to be displayed
+Policies & Procedures are Entered
+Risk Treatment
+Please choose Initiative / No Initiative found
+activities_result
+Orm_Rim_Risk_Management_Kpi
+Orm_Rim_Risk_Management_Objective
+Orm_Rim_Risk_Management_Initiative
+Orm_Rim_Risk_Management_Action_Plan
+Orm_Rim_Risk_Management_Project
+Orm_Rim_Risk_Management_Activity
+Orm_Rim_Risk_Management_Clo
+Orm_Rim_Risk_Management_Plo
+Club Name Arabic
+Club Name English
+Rubrics Name English
+Rubrics Name Arabic
+Award Winner Name English
+Award Winner Name Arabic
+Award Candidate Name English
+Award Candidate Name Arabic
+Training Name English
+Training Name Arabic
+Survey Title English
+Survey Title Arabic
+Club Name
+Policies
+Club Logo
+Who can Post
+Who can Join the group
+Warning! Max Size = 2M
+Assessment loop Programs to be displayed
+No data available in table
+Learning Domain Type
+Topics for advice
+Topics For
+Select Faculty
+Advisory Survey
+Meeting Advisory
+Rubric
+Invalid Login ID
+Club Cover
+PLO Keywords
+Max Size
+Not specified Assessment Methods
+Choose
+The resources you requested does not exist!
+Risk Responsible
+Select Class
+There is an exist strategic plan cover this period
+Custom
+Who Will Evaluate Advisory
+All Users
+Custom Users
+Survey Evaluation
+Survey not Published
+Invite you to join
+Accept
+Decline
+Accepted Successfully
+Leaved Successfully
+Member Removed Successfully
+Available Winners
+Record can not be Deleted
+This record assigned as a winner
+Your request to join has been send successfully
+KPI Name
+KPI Note
+Scale Name
+KPI Score
+Please enter Type Name
+Invalid Club Name
+Invalid Description
+Invalid Policies
+Record can not be Deleted This record assigned as a winner
+Leave
+Club Info
+Last post at
+Rate must be Less than or equal 100
+Total of rate type must be less than or equal 100
+Partially done
+not Done
+View Report
+Teacher
+Facilitator
+Please select Student Name from left list
+Rubrics Name
+# of Evaluation Skills
+This user already added to this program
+Not Published
+Delete related Sub Phase First
+You can enter your section location or choose from room list
+Room Name
+

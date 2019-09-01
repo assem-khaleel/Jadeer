@@ -1,0 +1,9 @@
+{
+  "paths": {
+    "dist": "../../assets/pixel"
+  },
+  "compileSources": true,
+  "compileAmd": true,
+  "minifyAmdModules": true,
+  "includeRtlSupport": true
+}

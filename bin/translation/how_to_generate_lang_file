@@ -1,0 +1,11 @@
+cd applecation
+
+1.	grep -rnw . -e "lang\((.*)\)" > ~/Desktop/lang.txt
+2. 	lang\((.*?)\) 	by 	\nlang($1)\n
+3.	^[^lang](.*) 	by	NULL
+4.	lang\([',"](.*?)[',"]\)	by 	$1
+5.	lang\((.*)\)		by	NULL
+6. 	\n\n 			by 	\n	MULTY
+7. 	remove from the last Codeigniter strings
+8.	sort
+9.	^(.*)(\r?\n\1)+$	by	$1

@@ -1,0 +1,22 @@
+id,question_english,question_arabic,page_id,survey_id,question_type,required
+1,What overall rating would you give the course?, ما تقيمك الشامل لهذا المقرر,1,1000,Radio,0
+2, Course overall,المقرر بشكل عام,1,1000,Factors_And_Statements,1
+3,How do you communicate course objectives to your students? ,كيف يمكنك توصيل اهداف المقرر لطلابك,2,2000,Textarea,0
+4,"Describe how you require students to “learn outside the classroom.”
+Do you require research, outside projects, or interdisciplinary assignments,
+ etc.?","وصف ما الذي تحتاجهمن الطلاب ""التعلم خارج الفصول الدراسية.""
+هل تحتاج الأبحاث والمشاريع الخارجية؟
+",2,2000,Textarea,1
+5,"What activities do you require of your students which are designed to
+improve their (1) oral and written communication skills, and (2)
+quantitative and problem-solving skills?","ما هي الأنشطة التي تتطلب من الطلاب التي تهدف إلى
+تحسين (1) مهارات الاتصال الشفوي والكتابي، و (2)
+الكمي ومهارات حل المشكلة؟",3,2000,Textarea,0
+6,"If you use electronic tools, how important are they in helping your students to lear the course content",إذا كنت تستخدم الأدوات الإلكترونية، ما مدى اهميتها في مساعدة الطلاب على تعلم المحتوى الدراسي,3,2000,Radio,1
+7,"When planning a course, do you consider using electronic tools to help your students achieve the courseís educational goals",عند التخطيط للمقرر هل تفكر في استخدام الادوات التكنولوجيا لتحقيق اهداف المقرر,3,2000,Radio,0
+8,Why did you choose the university ? Was there something in particular that drew you to the university or the community? Was there a particular person or project that influenced your decision to pursue a career here?,لماذا اخترت العمل بالجامعة؟ كان هناك شيء على وجه الخصوص جذبك إلى الجامعة أو المجتمع؟ كان هناك شخص معين أو المشروع الذي أثر على قرارك لممارسة مهنة هنا؟,4,3000,Textarea,1
+9,"If you were speaking to a prospective undergraduate or graduate student, why would you tell him/her to attend the university?",إذا كنت تتحدث إلى الجامعيين، لماذا كنت أقول له / لها للحضور الى الجامعة؟,4,3000,Textarea,0
+10,"How much do you agree or disagree with
+the following statements?",ما مدى موافقتك عن الامور التالية,4,3000,Factors_And_Statements,1
+11,"Looking back on your time at Princeton, how would you assess each of the following aspects of your experience at university?",ذا نظرنا إلى الوراء على وقتك في الجامعة ، كيف سيكون تقييم كل جانب من الجوانب التالية من تجربتك في الجامعة ؟,5,4000,Factors_And_Statements,0
+12,what is the benefit of the university,ما الجوانب الجيدة في الجامعة,6,5000,Textarea,0

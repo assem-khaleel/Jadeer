@@ -1,0 +1,9 @@
+run on terminal this command
+
+CHROME_DRIVER = one of the driver of your oprating system
+
+java -Dwebdriver.chrome.driver=CHROME_DRIVER -jar selenium/lib/selenium-server-standalone-3.6.0.jar
+
+e.g on mac : java -Dwebdriver.chrome.driver=selenium/lib/chromedriver/mac/chromedriver -jar selenium/lib/selenium-server-standalone-3.6.0.jar
+
+thin open the jadeer url selenium ok hamza

@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1a480c2b-c403-47c7-bf7c-f4cf27c68453" name="Default Changelist" comment="test commit">
+      <change beforePath="$PROJECT_DIR$/application/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/database.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/config/migration.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/migration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/Campus.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Campus.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/Setup.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Setup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/migrations/20181107113850_cm_program_ipa.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/migrations/20181107113850_cm_program_ipa.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_a.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_b.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_c.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_d.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_e.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_e.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_f.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_f.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_g.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_g.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_h.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_h.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_a.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_b.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_c.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_d.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_e.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_e.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_f.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_f.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_g.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_g.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_h.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_h.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/signature.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/signature.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_a.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_attach.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_attach.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_b.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_c.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_d.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_e.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_e.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_f.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_f.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_g.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_g.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_h.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_h.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_signature.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_signature.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_a.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_a.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_attach.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_attach.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_b.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_b.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_c.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_c.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_d.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_d.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_e.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_e.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_f.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_f.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_g.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_g.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_h.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_h.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_i.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_i.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_j.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_j.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_signature.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_signature.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/colleges18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/colleges18.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/courses18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/courses18.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/programs18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/programs18.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ps_pr18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ps_pr18.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/sections18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/sections18.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ssr_i18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ssr_i18.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ssr_p18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ssr_p18.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/industrial_skills/views/details.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/industrial_skills/views/details.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/industrial_skills/views/details_data_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/industrial_skills/views/details_data_table.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/rubrics/controllers/Rubrics.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/rubrics/controllers/Rubrics.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/rubrics/views/report.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/rubrics/views/report.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/modules/skills_transcript/views/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/skills_transcript/views/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/orm/user/faculty.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/orm/user/faculty.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/campus/create_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/campus/create_edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/views/setup/mission/add_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/setup/mission/add_edit.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <executablePath>composer</executablePath>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jadeer_last@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jadeer_last@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="jadeer_last@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="jadeer_last: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jadeer" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/orm/orm_college_goal.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2888">
+              <caret line="152" column="20" selection-start-line="152" selection-start-column="20" selection-end-line="152" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/cli/Migrate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1197">
+              <caret line="63" selection-start-line="63" selection-end-line="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/College.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="684">
+              <caret line="55" column="69" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/navigation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="37" column="80" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/orm/orm_user.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1596">
+              <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/modules/examination/controllers/Quiz.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1121">
+              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Campus.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2717">
+              <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://422e0f40-2a48-46af-aa2c-75444f66ee17/schema/jadeer_last/table/campus">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>add</find>
+      <find>sp-container</find>
+      <find>perspective-container</find>
+      <find>strategic_planning/vision_mission</find>
+      <find>filter-mode</find>
+      <find>datePrev</find>
+      <find>details-container</find>
+      <find>regenerate</find>
+      <find>detail</find>
+      <find>details</find>
+      <find>detai</find>
+      <find>basic</find>
+      <find>report</find>
+      <find>sa</find>
+      <find>save</find>
+      <find>to_arra</find>
+      <find>array</find>
+      <find>in_array</find>
+      <find>draw_prop</find>
+      <find>is_</find>
+      <find>gene</find>
+      <find>generate</find>
+      <find>check_extra_data</find>
+      <find>draw</find>
+      <find>this-&gt;</find>
+      <find>servi</find>
+      <find>ajax</find>
+      <find>is_aja</find>
+      <find>class_type</find>
+      <find>is_deleted</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'.lang('Click Here').'</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/application/modules/accreditation</dir>
+      <dir>$PROJECT_DIR$/application/modules/assessment_loop</dir>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/application/modules/survey/models</dir>
+      <dir>$PROJECT_DIR$/application/modules/policies_procedures</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/modules/assessment_loop/orm/orm_al_measure.php" />
+        <option value="$PROJECT_DIR$/application/modules/assessment_loop/orm/orm_al_recommendation.php" />
+        <option value="$PROJECT_DIR$/application/modules/assessment_loop/orm/orm_al_result.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Assignment_bank.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Assignments.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Correction.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Examination.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Examination_bank.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Proctor.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Question_bank.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Report.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Student_assignment.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Student_exam.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Student_quiz.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/models/Tst_Exam_Model.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/models/Tst_Exam_Student_Mark_Model.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/models/Tst_Question_Options_Model.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/orm/orm_tst_exam.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/orm/orm_tst_question.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/orm/orm_tst_question_options.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/orm/orm_tst_question_type_checkbox.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/orm/orm_tst_question_type_radio.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/orm/orm_tst_question_type_textarea.php" />
+        <option value="$PROJECT_DIR$/application/modules/project_management/controllers/Project_management.php" />
+        <option value="$PROJECT_DIR$/application/modules/project_management/orm/orm_pm_phase.php" />
+        <option value="$PROJECT_DIR$/application/modules/project_management/orm/orm_pm_project.php" />
+        <option value="$PROJECT_DIR$/application/modules/project_management/orm/orm_pm_project_phase.php" />
+        <option value="$PROJECT_DIR$/application/modules/project_management/orm/orm_pm_sub_phase.php" />
+        <option value="$PROJECT_DIR$/application/modules/strategic_planning/views/sp_filters.php" />
+        <option value="$PROJECT_DIR$/application/modules/award_management/controllers/Award_management.php" />
+        <option value="$PROJECT_DIR$/application/config/database.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Dashboard.php" />
+        <option value="$PROJECT_DIR$/application/config/acl.php" />
+        <option value="$PROJECT_DIR$/application/config/autoload.php" />
+        <option value="$PROJECT_DIR$/application/config/breadcrumbs.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/config/constants.php" />
+        <option value="$PROJECT_DIR$/application/config/memcached.php" />
+        <option value="$PROJECT_DIR$/application/config/migration.php" />
+        <option value="$PROJECT_DIR$/application/config/navigation.php" />
+        <option value="$PROJECT_DIR$/application/models/user/User_Faculty_Model.php" />
+        <option value="$PROJECT_DIR$/application/orm/user/faculty.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Setup.php" />
+        <option value="$PROJECT_DIR$/application/views/setup/mission/add_edit.php" />
+        <option value="$PROJECT_DIR$/application/controllers/cli/Backup.php" />
+        <option value="$PROJECT_DIR$/application/controllers/cli/Sender.php" />
+        <option value="$PROJECT_DIR$/application/views/campus/create_edit.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+        <option value="$PROJECT_DIR$/application/controllers/Campus.php" />
+        <option value="$PROJECT_DIR$/application/modules/examination/controllers/Quiz.php" />
+        <option value="$PROJECT_DIR$/application/controllers/abreviation" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/mikehaertl/php-tmpfile" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/mikehaertl/phpwkhtmltopdf" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/facebook/webdriver" />
+      <path value="$PROJECT_DIR$/vendor/lcobucci/jwt" />
+      <path value="$PROJECT_DIR$/vendor/mikey179/vfsStream" />
+      <path value="$PROJECT_DIR$/vendor/phpoffice/phpexcel" />
+      <path value="$PROJECT_DIR$/vendor/mikehaertl/php-shellcommand" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1366" />
+    <option name="y" value="-2" />
+    <option name="width" value="1920" />
+    <option name="height" value="1082" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="cache" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="accreditation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="accreditation" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="advisory" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="advisory" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="examination" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="examination" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="examination" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="examination" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="examination" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="assignment_bank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="examination" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="examination" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+              <item name="quiz" type="462c0819:PsiDirectoryNode" />
+              <item name="question" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="strategic_planning" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="strategic_planning" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="modules" type="462c0819:PsiDirectoryNode" />
+              <item name="strategic_planning" type="462c0819:PsiDirectoryNode" />
+              <item name="models" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="orm" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="help" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="training&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/application/config/database.php" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.edit_scale.php">
+    <configuration name="edit_scale.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jadeer/application/modules/rubrics/views/edit_scale.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="list.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/jadeer/application/modules/training_management/views/type/list.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.list.php" />
+      <item itemvalue="JavaScript Debug.edit_scale.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.edit_scale.php" />
+        <item itemvalue="JavaScript Debug.list.php" />
+        <item itemvalue="JavaScript Debug.edit_scale.php" />
+        <item itemvalue="JavaScript Debug.list.php" />
+        <item itemvalue="JavaScript Debug.edit_scale.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",Show Fields" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a480c2b-c403-47c7-bf7c-f4cf27c68453" name="Default Changelist" comment="" />
+      <created>1540129323691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540129323691</updated>
+      <workItem from="1540129327125" duration="15000" />
+      <workItem from="1540129349491" duration="97097000" />
+      <workItem from="1540708949428" duration="226229000" />
+      <workItem from="1541601425661" duration="22668000" />
+      <workItem from="1541918682804" duration="16697000" />
+      <workItem from="1542005525172" duration="33299000" />
+      <workItem from="1543136027526" duration="6104000" />
+      <workItem from="1543231694319" duration="639000" />
+      <workItem from="1543302222178" duration="599000" />
+      <workItem from="1544690917446" duration="109380000" />
+      <workItem from="1545289819005" duration="1255000" />
+      <workItem from="1545304612337" duration="2098000" />
+      <workItem from="1546426480988" duration="636000" />
+      <workItem from="1546498560067" duration="672000" />
+      <workItem from="1548767954737" duration="41319000" />
+      <workItem from="1549177816924" duration="659000" />
+      <workItem from="1549179830355" duration="1209000" />
+    </task>
+    <task id="LOCAL-00001" summary="training management last modifying">
+      <created>1540291638641</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1540291638641</updated>
+    </task>
+    <task id="LOCAL-00002" summary="award management check and fix">
+      <created>1540304576106</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1540304576106</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Award management done ... hamza took overview about it">
+      <created>1540366034402</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1540366034402</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add gitignore database">
+      <created>1540367044250</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1540367044250</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add gitignore database">
+      <created>1540367541547</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1540367541547</updated>
+    </task>
+    <task id="LOCAL-00006" summary="examination fix">
+      <created>1540390282559</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1540390282559</updated>
+    </task>
+    <task id="LOCAL-00007" summary="advisory">
+      <created>1540390608512</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1540390608512</updated>
+    </task>
+    <task id="LOCAL-00008" summary="examination">
+      <created>1540390858799</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1540390858799</updated>
+    </task>
+    <task id="LOCAL-00009" summary="survey modifiying in public function">
+      <created>1540467586442</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1540467586442</updated>
+    </task>
+    <task id="LOCAL-00010" summary="assessment loop and rubrics">
+      <created>1540971271450</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1540971271450</updated>
+    </task>
+    <task id="LOCAL-00011" summary="assessment loop and rubrics">
+      <created>1540973009273</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1540973009273</updated>
+    </task>
+    <task id="LOCAL-00012" summary="modifying assessment metric">
+      <created>1541076903339</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1541076903339</updated>
+    </task>
+    <task id="LOCAL-00013" summary="assessment metric analysis">
+      <created>1541338123341</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1541338123341</updated>
+    </task>
+    <task id="LOCAL-00014" summary="assessment metric analysis">
+      <created>1541339408725</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1541339408725</updated>
+    </task>
+    <task id="LOCAL-00015" summary="language modifying">
+      <created>1541408304372</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1541408304372</updated>
+    </task>
+    <task id="LOCAL-00016" summary="work on rubrics language">
+      <created>1541413590904</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1541413590904</updated>
+    </task>
+    <task id="LOCAL-00017" summary="work on rubrics language">
+      <created>1541413957884</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1541413957884</updated>
+    </task>
+    <task id="LOCAL-00018" summary="work on rubrics language">
+      <created>1541414001424</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1541414001424</updated>
+    </task>
+    <task id="LOCAL-00019" summary="fix conflict issue">
+      <created>1541414292584</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1541414292584</updated>
+    </task>
+    <task id="LOCAL-00020" summary="work on view of industrial with rubrics ... stop work on it after hamza coming">
+      <created>1541584192913</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1541584192913</updated>
+    </task>
+    <task id="LOCAL-00021" summary="test commit">
+      <created>1541592201833</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1541592201833</updated>
+    </task>
+    <task id="LOCAL-00022" summary="test commit">
+      <created>1541680191096</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1541680191096</updated>
+    </task>
+    <task id="LOCAL-00023" summary="finish dicumentaions of all modules">
+      <created>1545304866510</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1545304866510</updated>
+    </task>
+    <task id="LOCAL-00024" summary="after merging">
+      <created>1545305434957</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1545305434957</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="560575000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1366" y="-2" width="1920" height="1082" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7241379" visible="true" weight="0.2113127" />
+      <window_info id="Favorites" order="1" sideWeight="0.5032328" side_tool="true" weight="0.18836713" />
+      <window_info id="Structure" order="2" sideWeight="0.27586207" side_tool="true" weight="0.2289221" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32901832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32983193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" weight="0.32952693" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994664" weight="0.24784483" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49839914" visible="true" weight="0.031479537" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50160086" side_tool="true" weight="0.32686085" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32901832" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.09658484" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7241379" visible="true" weight="0.13820705" />
+      <window_info id="Favorites" order="1" sideWeight="0.5032328" side_tool="true" weight="0.18836713" />
+      <window_info id="Structure" order="2" sideWeight="0.27586207" side_tool="true" weight="0.2289221" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32901832" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32983193" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39915967" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" weight="0.32952693" />
+      <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994664" weight="0.24784483" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49839914" visible="true" weight="0.28121722" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50160086" side_tool="true" weight="0.32686085" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32901832" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info active="true" anchor="right" id="Database" order="3" visible="true" weight="0.20811099" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="training management last modifying" />
+    <MESSAGE value="award management check and fix" />
+    <MESSAGE value="Award management done ... hamza took overview about it" />
+    <MESSAGE value="add gitignore database" />
+    <MESSAGE value="examination fix" />
+    <MESSAGE value="advisory" />
+    <MESSAGE value="examination" />
+    <MESSAGE value="survey modifiying in public function" />
+    <MESSAGE value="assessment loop and rubrics" />
+    <MESSAGE value="modifying assessment metric" />
+    <MESSAGE value="assessment metric analysis" />
+    <MESSAGE value="language modifying" />
+    <MESSAGE value="work on rubrics language" />
+    <MESSAGE value="fix conflict issue" />
+    <MESSAGE value="work on view of industrial with rubrics ... stop work on it after hamza coming" />
+    <MESSAGE value="test commit" />
+    <MESSAGE value="finish dicumentaions of all modules" />
+    <MESSAGE value="after merging" />
+    <option name="LAST_COMMIT_MESSAGE" value="after merging" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="244" height="509" key="Git.Branch.Popup" />
+    <state width="244" height="509" key="Git.Branch.Popup/1366.768/1920.1080" />
+    <state width="318" height="583" key="Git.Branch.Popup@1366.768" />
+    <state width="244" height="509" key="Git.Branch.Popup@1920.1080" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/config/memcached.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/user/User_Faculty_Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/422e0f40-2a48-46af-aa2c-75444f66ee17/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/orm/orm_unit_goal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2416">
+          <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/orm/orm_setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/orm/orm_unit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="328" column="20" selection-start-line="328" selection-start-column="20" selection-end-line="328" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/orm/orm_college.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="460" column="20" selection-start-line="460" selection-start-column="20" selection-end-line="460" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/setup/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
+          <folding>
+            <element signature="e#6#116#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/profiler.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/rest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2280" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-239" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Setup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1349">
+          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/user_agents.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3222" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/libraries/rest/REST_Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/api/Example.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-923">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/smileys.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/setup/mission/add_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="605">
+          <caret line="55" column="16" selection-start-line="55" selection-start-column="16" selection-end-line="55" selection-end-column="16" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+            <element signature="e#355#362#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/api/Key.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2489">
+          <caret line="73" column="5" lean-forward="true" selection-start-line="73" selection-start-column="5" selection-end-line="73" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/database/DB_driver.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/basic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="92" column="9" selection-start-line="92" selection-start-column="9" selection-end-line="92" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/zip/zip.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4812">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CI_phpStorm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="75" column="6" selection-start-line="75" selection-start-column="6" selection-end-line="75" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cli/Backup.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1227">
+          <caret line="98" lean-forward="true" selection-start-line="98" selection-end-line="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cli/Checker.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cli/Kku.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3876" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/orm/orm_cron_job.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="26" column="26" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_7.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="391" column="9" selection-start-line="391" selection-start-column="9" selection-end-line="391" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/standard/standard_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="662" column="9" selection-start-line="662" selection-start-column="9" selection-end-line="662" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cli/Sender.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <caret line="61" column="19" lean-forward="true" selection-start-line="61" selection-start-column="19" selection-end-line="61" selection-end-column="19" />
+          <folding>
+            <element signature="e#6#87#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cli/Integration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1767">
+          <caret line="96" column="5" lean-forward="true" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cli/Integrate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-159095">
+          <caret line="90" column="5" lean-forward="true" selection-start-line="90" selection-start-column="5" selection-end-line="90" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/system/libraries/Migration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="353" column="20" selection-start-line="353" selection-start-column="20" selection-end-line="353" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://422e0f40-2a48-46af-aa2c-75444f66ee17/schema/jadeer_last/table/cron_job">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/common_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="185" column="9" selection-start-line="185" selection-start-column="9" selection-end-line="185" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/room_management/controllers/Equipments.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8">
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/orm/orm_campus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2356">
+          <caret line="8" column="42" lean-forward="true" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/campus/create_edit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="233" column="12" selection-start-line="233" selection-start-column="12" selection-end-line="233" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cli/Strategic_planning.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2160" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/migration.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-209">
+          <caret line="13" column="35" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/abreviation">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/orm/orm_college_goal.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2888">
+          <caret line="152" column="20" selection-start-line="152" selection-start-column="20" selection-end-line="152" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/cli/Migrate.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1197">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/navigation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="80" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/orm/orm_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1596">
+          <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/modules/examination/controllers/Quiz.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Campus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2717">
+          <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://422e0f40-2a48-46af-aa2c-75444f66ee17/schema/jadeer_last/table/campus">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/College.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="684">
+          <caret line="55" column="69" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

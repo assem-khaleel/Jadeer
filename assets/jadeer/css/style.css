@@ -1,0 +1,114 @@
+/*
+ * Base structure
+ */
+
+#tree {
+    border-radius: 5px;
+    padding: 1px;
+    background-color: #3a424b;
+}
+#tree .indentation {
+    clear: both;
+    float: left;
+}
+#tree .indentation span {
+    height: 48px;
+    width: 25px;
+    float: left;
+}
+#tree .indentation span:first-of-type {
+    border-top-left-radius : 5px;
+    border-bottom-left-radius : 5px;
+}
+#tree .indentation span:last-of-type {
+    border-top-right-radius : 5px;
+    border-bottom-right-radius : 5px;
+    width: 50px;
+}
+#tree .tree-node {
+    background-color: #2D353D;
+    border: 1px solid #3a424b;
+    border-radius: 5px;
+    min-height: 50px;
+    margin: 5px;
+    clear: both;
+}
+#tree .tree-node:hover {
+    background-color: #D7785F;
+}
+#tree .tree-collapse {
+    background: url('/assets/jadeer/img/accreditation/tree-collapse.png') no-repeat;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+    float: left;
+}
+#tree .tree-expand {
+    background: url('/assets/jadeer/img/accreditation/tree-expand.png') no-repeat;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+    float: left;
+}
+#tree .tree-leaf {
+    background: url('/assets/jadeer/img/accreditation/tree-leaf.png') no-repeat;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+    float: left;
+}
+#tree .tree-name {
+    color: #fff;
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 5px;
+    margin-top: 14px;
+}
+#tree .btn {
+    background: #D16347;
+    margin-top: 3px;
+}
+.tree-actions {
+    float: right;
+    margin: 9px 5px;
+}
+
+.more_items .item {
+    background-color: rgba(247, 247, 249, 0.5);
+    border: 1px solid #3a424b;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.group {
+    background-color: rgba(247, 247, 249, 0.2);
+    border: 1px solid #3a424b;
+    padding: 10px;
+    margin-bottom: 15px;
+}
+
+.bg-tree-node-1{
+    background-color:#D16347;
+}
+
+.bg-tree-node-2{
+    background-color:#D1635D;
+}
+
+.bg-tree-node-3{
+    background-color:#D16379;
+}
+
+.bg-tree-node-4{
+    background-color:#D16392;
+}
+
+.bg-tree-node-5{
+     background-color:#D163A3;
+}

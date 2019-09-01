@@ -1,0 +1,59 @@
+id,question_id,title_arabic,title_english,abbreviation_english,abbreviation_arabic,type,factor_id
+1,1,ممتاز,Excellent,,,Choice,
+2,1,جيد جدا,Very good,,,Choice,
+3,1,جيد,Good,,,Choice,
+4,1,مقبول,Fair,,,Choice,
+5,1,ضعيف,Poor,,,Choice,
+6,2,خطة المقرر وادارتها        ,Course Planning and Administration        ,AB,اب,Factor,
+7,,"يقوم الاستاذ بشرح واضح للمواد الدراسية بما في ذلك الأهداف والنتائج والتقييم.	
+","The professor had clearly explained course materials including objectives, outcomes, assessment.",AB1,اب1        ,Statement,6
+8,2,"الكتب والمراجع المطلوبة لهذا المقرر متوفرة في المكتبة	
+","The required books and reference materials were available in the library.        
+",AB2,اب2,Statement,6
+9,2,"يعرض الاستاذ المواضيع ذات الصلة والمعلومات الجديدة بالمقرر خلال المحاضرة	
+","The professor had presented relevant and up to date information in lectures and course materials.	
+",AB3,اب3,Statement,6
+10,2,"تم توضيح العلاقة بين هذا المقرر والمقررات الاخرى الموجودة في برنامج هندسة الحاسوب	
+","The relation between this course and other courses within my program had been sufficiently clarified.	
+",AB4,اب4,Statement,6
+11,2,"قام الاستاذ بتنفيذ جميع النشاطات وفقا لما كان مخططا له في بداية الفصل الدراسي.	
+","The activities done by the professor were done accordingly to what was planned in the beginning of the semester.	
+",AB5,اب5,Statement,6
+12,2,تفاعل الطلاب وتعلمهم        ,Student Learning and Interaction        ,AC,اس,Factor,
+13,,"قام الاستاذ بالتفاعل مع الطلاب وتوضيح الاخطاء وتصويبها	
+","The course instructor has communicated the students' mistakes and corrected it.        
+",AC1,اس1,Statement,12
+14,2,"سمح الاستذ للطلاب بالمشاركة وطرح الاسئلة	
+","The course instructor had allowed for students to participate and ask questions.	
+",AC2,اس2,Statement,12
+15,2,"احسست بالتقدير والاعجاب من قبل الاستاذ	
+","I felt valued and appreciated by the course instructor.	
+",AC3,اس3,Statement,12
+16,2,يهتم الاستاذ بان يفهم الطلاب موضوعات المقرر بشكل جيد,The course instructor is dedicated to having students understand the course materials.,AC4,اس4,Statement,12
+17,2,تستخدم التكنولوجيا بشكل جيد لتوضيح موضوعات المقرر,Technology is properly used to aid in providing course materials.,AC5,اس5,Statement,12
+18,6,مهم جدا,Extremely important,,,Choice,
+19,6,متوسط الاهمية,Moderately important,,,Choice,
+20,6,قليل الاهمية,Minimally important,,,Choice,
+21,6,غير مهمة على الاطلاق,"Not important at all
+",,,Choice,
+22,6,لا يتم تطبيقها, Doesnít apply,,,Choice,
+23,7,غالبا,Almost always,,,Choice,
+24,7,عادة,Usually,,,Choice,
+25,7,احيانا,Sometimes ,,,Choice,
+26,7,على الاغلب لا,Almost never,,,Choice,
+27,10,بشكل عام,overall,AD,اد,Factor,
+28,,"تقدم الجامعة الدعم لمساعدة الموظفين
+  التوازن بين العمل والمسؤوليات الشخصية ","The university provides support to help staff
+ balance work and personal responsibilities",AD1,اد1,Statement,27
+29,10,"يوفرمشرف الدعم المساعدة للموظفين
+ومساعدتهم لتحقيق التوازن بين العمل والمسؤوليات الشخصية ","My supervisor provides support to help staff
+ balance work and personal responsibilities",AD2,اد2,Statement,27
+30,10,"يمكنني العثور بسهولة على معلومات موثوقة بشأن
+  السياسات  التي تنطبق علي","I can easily find reliable information concerning
+ the policies and benefits that apply to me",AD3,اد3,Statement,27
+31,11,بشكل عام,overall,AE,اي,Factor,
+32,,الخبرة الأكاديمية الشاملة في الجامعة,"
+Overall academic experience at university",AE1,اي1,Statement,31
+33,11,الخبرة الأكاديمية الشاملة في قسمك أو برنامج,Overall academic experience in your department or program,AE2,اي2,Statement,31
+34,11, الحياة الطلابية غير الأكاديمية  في الجامعة,Non-academic or student life experience at university,AE3,اي3,Statement,31
+35,11, الحياة الطلابية غير الأكاديمية  في الجامعة,Non-academic or student life experience at university,,,Textarea,

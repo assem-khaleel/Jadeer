@@ -1,0 +1,6 @@
+id,english_title,arabic_title,type
+1000,course_evaluation,تقييم المقرر,1
+2000,faculty_evaluation,تقييم الهيئة التدريسية,2
+3000,staff_evaluation,تقيم العاملين,3
+4000,alumni_evaluation,تقيم الخريجين,4
+5000,employer_evaluation,تقيم صاحب العمل,5

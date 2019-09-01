@@ -1,0 +1,59 @@
+#!/usr/bin/env bash
+export DEBIAN_FRONTEND=noninteractive
+
+installpkg(){
+    dpkg-query --status $1 >/dev/null || apt-get install -y $1
+}
+
+add-apt-repository ppa:ondrej/php
+apt-get update
+apt-get upgrade -y
+installpkg php7.1
+installpkg php7.1-mysql
+installpkg php7.1-mcrypt
+installpkg php7.1-xml
+installpkg php7.1-curl
+installpkg php7.1-mbstring
+installpkg libapache2-mod-php7.1
+installpkg git
+installpkg redis-server
+installpkg zip
+installpkg mysql-server
+installpkg apache2-utils
+installpkg apache2-suexec-custom
+
+
+echo "ServerName localhost" > /etc/apache2/conf-enabled/servername.conf
+a2enmod php7.1
+a2enmod suexec
+a2enmod rewrite
+
+
+a2dissite jadeer.conf
+cp /tmp/jadeer.conf /etc/apache2/sites-available
+a2ensite jadeer.conf
+
+curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+
+sed -i 's/memory_limit = 128M/memory_limit = 768M/g' /etc/php/7.1/apache2/php.ini
+service apache2 restart
+bootstrapdb(){
+    cat <<EOF | mysql -uroot
+    DROP DATABASE IF EXISTS jadeer_plus;
+    CREATE DATABASE jadeer_plus;
+    USE jadeer_plus;
+	source /home/vagrant/code/bin/sql/JADEER_STRUCTURE.sql;
+	source /home/vagrant/code/bin/sql/cm.sql;
+	source /home/vagrant/code/bin/sql/faculty_performance.sql;
+	source /home/vagrant/code/bin/sql/todo.sql;
+	source /home/vagrant/code/bin/sql/todo-campus.sql;
+EOF
+}
+bootstrapdb
+
+populate_db() {
+    /tmp/populate_db 10000000| mysql -u root samtt
+}
+populate_db
+
+cd /home/vagrant/code/ && composer update && composer dump-autoload

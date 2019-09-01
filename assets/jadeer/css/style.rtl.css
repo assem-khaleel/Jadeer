@@ -1,0 +1,101 @@
+/*
+ * Base structure
+ */
+
+#tree {
+    border-radius: 5px;
+    padding: 1px;
+    background-color: #DDDBDA;
+}
+
+#tree .indentation {
+    clear: both;
+    float: right;
+}
+
+#tree .indentation span {
+    height: 48px;
+    width: 25px;
+    float: right;
+}
+
+#tree .indentation span:first-of-type {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+#tree .indentation span:last-of-type {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+    width: 50px;
+}
+
+#tree .tree-node {
+    background-color: #fff;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    min-height: 50px;
+    margin: 5px;
+    clear: both;
+}
+
+#tree .tree-node:hover {
+    background-color: #C8C7C7;
+}
+
+#tree .tree-collapse {
+    background: url('/assets/jadeer/img/accreditation/tree-collapse.png') no-repeat;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+    float: right;
+}
+
+#tree .tree-expand {
+    background: url('/assets/jadeer/img/accreditation/tree-expand-left.png') no-repeat;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    cursor: pointer;
+    margin-top: 10px;
+    float: right;
+}
+
+#tree .tree-leaf {
+    background: url('/assets/jadeer/img/accreditation/tree-leaf.png') no-repeat;
+    text-align: center;
+    width: 25px;
+    height: 25px;
+    margin-top: 10px;
+    float: right;
+}
+
+#tree .tree-name {
+    color: #333;
+    float: right;
+    font-size: 14px;
+    font-weight: bold;
+    margin-right: 5px;
+    margin-top: 14px;
+}
+
+.tree-actions {
+    float: left;
+    margin: 9px 5px;
+}
+
+.more_items .item {
+    background-color: rgba(247, 247, 249, 0.5);
+    border: 1px solid #e1e1e8;
+    padding: 10px;
+    margin-bottom: 5px;
+}
+
+.group {
+    background-color: rgba(247, 247, 249, 0.2);
+    border: 1px solid #e1e1e8;
+    padding: 10px;
+    margin-bottom: 15px;
+}
