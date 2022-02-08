@@ -2,66 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1a480c2b-c403-47c7-bf7c-f4cf27c68453" name="Default Changelist" comment="test commit">
-      <change beforePath="$PROJECT_DIR$/application/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/config.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/config/database.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/database.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/config/migration.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/config/migration.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/Campus.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Campus.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/controllers/Setup.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/Setup.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/migrations/20181107113850_cm_program_ipa.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/migrations/20181107113850_cm_program_ipa.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_a.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_a.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_b.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_b.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_c.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_c.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_d.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_d.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_e.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_e.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_f.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_f.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_g.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_g.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_h.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_report_h.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_a.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_a.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_b.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_b.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_c.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_c.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_d.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_d.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_e.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_e.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_f.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_f.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_g.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_g.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_h.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/course_specifications_h.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/signature.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncacm18/signature.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_a.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_a.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_attach.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_attach.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_b.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_b.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_c.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_c.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_d.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_d.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_e.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_e.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_f.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_f.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_g.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_g.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_h.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_h.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_signature.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/annual_signature.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_a.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_a.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_attach.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_attach.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_b.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_b.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_c.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_c.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_d.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_d.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_e.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_e.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_f.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_f.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_g.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_g.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_h.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_h.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_i.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_i.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_j.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_j.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_signature.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/libraries/Node/ncapm18/program_specifications_signature.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/colleges18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/colleges18.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/courses18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/courses18.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/programs18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/programs18.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ps_pr18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ps_pr18.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/sections18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/sections18.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ssr_i18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ssr_i18.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ssr_p18.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/accreditation/views/dashboard/national/ssr_p18.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/industrial_skills/views/details.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/industrial_skills/views/details.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/industrial_skills/views/details_data_table.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/industrial_skills/views/details_data_table.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/rubrics/controllers/Rubrics.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/rubrics/controllers/Rubrics.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/rubrics/views/report.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/rubrics/views/report.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/modules/skills_transcript/views/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/modules/skills_transcript/views/list.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/orm/user/faculty.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/orm/user/faculty.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/campus/create_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/campus/create_edit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/application/views/setup/mission/add_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/views/setup/mission/add_edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/422e0f40-2a48-46af-aa2c-75444f66ee17.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/422e0f40-2a48-46af-aa2c-75444f66ee17.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/assem.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/assem.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/controllers/abreviation" beforeDir="false" afterPath="$PROJECT_DIR$/application/controllers/abreviation" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/arabic/all_lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/language/arabic/all_lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application/language/english/all_lang.php" beforeDir="false" afterPath="$PROJECT_DIR$/application/language/english/all_lang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Documents/project_management/customized_project_1_20190129.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Documents/project_management/customized_project_1_20190129.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/files/Documents/project_management/project_1_to_start_with_20190129.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/files/Documents/project_management/project_1_to_start_with_20190129.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jadeer.sql" beforeDir="false" afterPath="$PROJECT_DIR$/jadeer.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/license_development.key" beforeDir="false" afterPath="$PROJECT_DIR$/license_development.key" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -109,73 +61,57 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/orm/orm_college_goal.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2888">
-              <caret line="152" column="20" selection-start-line="152" selection-start-column="20" selection-end-line="152" selection-end-column="20" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/application/config/acl.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/cli/Migrate.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="63" selection-start-line="63" selection-end-line="63" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/config/config.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/application/controllers/College.php">
+        <entry file="file://$PROJECT_DIR$/application/config/database.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="684">
-              <caret line="55" column="69" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
+            <state relative-caret-position="416">
+              <caret line="84" column="49" selection-start-line="84" selection-start-column="49" selection-end-line="84" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/config/navigation.php">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Reports.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="703">
-              <caret line="37" column="80" selection-start-line="37" selection-start-column="80" selection-end-line="37" selection-end-column="80" />
+            <state relative-caret-position="570">
+              <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/orm/orm_user.php">
+        <entry file="file://$PROJECT_DIR$/application/controllers/User.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Eaa.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1596">
-              <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="44" />
+            <state relative-caret-position="475">
+              <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/modules/examination/controllers/Quiz.php">
+        <entry file="file://$PROJECT_DIR$/application/migrations/20170605151443_data_roles.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1121">
-              <caret line="59" column="9" selection-start-line="59" selection-start-column="9" selection-end-line="59" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/controllers/Campus.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2717">
-              <caret line="143" column="20" selection-start-line="143" selection-start-column="20" selection-end-line="143" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="das://422e0f40-2a48-46af-aa2c-75444f66ee17/schema/jadeer_last/table/campus">
-          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-            <state>
-              <filtering enabled="true" />
+            <state relative-caret-position="1026">
+              <caret line="54" column="36" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -322,161 +258,19 @@
         <subPane>
           <expand>
             <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="jadeer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="jadeer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
+              <item name="jadeer" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jadeer" type="462c0819:PsiDirectoryNode" />
               <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="cache" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="accreditation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="accreditation" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="advisory" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="advisory" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="examination" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="examination" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="examination" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="examination" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="examination" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="assignment_bank" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="examination" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="examination" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="quiz" type="462c0819:PsiDirectoryNode" />
-              <item name="question" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="strategic_planning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="strategic_planning" type="462c0819:PsiDirectoryNode" />
-              <item name="controllers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="modules" type="462c0819:PsiDirectoryNode" />
-              <item name="strategic_planning" type="462c0819:PsiDirectoryNode" />
-              <item name="models" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="orm" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="application" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="jadeer-origin" type="b2602c69:ProjectViewProjectNode" />
-              <item name="jadeer-origin" type="462c0819:PsiDirectoryNode" />
-              <item name="help" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -492,7 +286,7 @@
     <property name="add_unversioned_files" value="$PROJECT_DIR$/application/config/database.php" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GenericSQL" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../blogView" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -561,6 +355,8 @@
       <workItem from="1548767954737" duration="41319000" />
       <workItem from="1549177816924" duration="659000" />
       <workItem from="1549179830355" duration="1209000" />
+      <workItem from="1568276152728" duration="2874000" />
+      <workItem from="1568527733943" duration="71000" />
     </task>
     <task id="LOCAL-00001" summary="training management last modifying">
       <created>1540291638641</created>
@@ -734,12 +530,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="560575000" />
+    <option name="totallyTimeSpent" value="563520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1366" y="-2" width="1920" height="1082" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7241379" visible="true" weight="0.2113127" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7241379" visible="true" weight="0.26093918" />
       <window_info id="Favorites" order="1" sideWeight="0.5032328" side_tool="true" weight="0.18836713" />
       <window_info id="Structure" order="2" sideWeight="0.27586207" side_tool="true" weight="0.2289221" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -751,7 +547,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" weight="0.32952693" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4994664" weight="0.24784483" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49839914" visible="true" weight="0.031479537" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49839914" visible="true" weight="0.13221405" />
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50160086" side_tool="true" weight="0.32686085" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="12" />
@@ -759,7 +555,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.09658484" />
+      <window_info anchor="right" id="Database" order="3" visible="true" weight="0.13447171" />
     </layout>
     <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.7241379" visible="true" weight="0.13820705" />
@@ -826,81 +622,6 @@
     <state width="244" height="509" key="Git.Branch.Popup@1920.1080" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/config/memcached.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="26" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="16" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/user/User_Faculty_Model.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2033">
-          <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/422e0f40-2a48-46af-aa2c-75444f66ee17/console.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/orm/orm_unit_goal.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2416">
-          <caret line="128" column="20" selection-start-line="128" selection-start-column="20" selection-end-line="128" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/orm/orm_setup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/orm/orm_unit.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="328" column="20" selection-start-line="328" selection-start-column="20" selection-end-line="328" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/orm/orm_college.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="460" column="20" selection-start-line="460" selection-start-column="20" selection-end-line="460" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/setup/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
-          <folding>
-            <element signature="e#6#116#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/profiler.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/rest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2280" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-239" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/Setup.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="71" column="16" selection-start-line="71" selection-start-column="16" selection-end-line="71" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/config/user_agents.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3222" />
@@ -945,13 +666,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="80" column="11" selection-start-line="80" selection-start-column="11" selection-end-line="80" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/database.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="73" column="22" selection-start-line="73" selection-start-column="22" selection-end-line="73" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -1047,13 +761,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://422e0f40-2a48-46af-aa2c-75444f66ee17/schema/jadeer_last/table/cron_job">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="das://422e0f40-2a48-46af-aa2c-75444f66ee17/schema/jadeer_last/table/cron_job" />
     <entry file="file://$PROJECT_DIR$/application/helpers/common_helper.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -1094,9 +802,7 @@
         <state relative-caret-position="-2160" />
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.sql" />
     <entry file="file://$PROJECT_DIR$/application/config/migration.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-209">
@@ -1132,13 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/orm/orm_user.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1596">
-          <caret line="84" column="34" selection-start-line="84" selection-start-column="34" selection-end-line="84" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/modules/examination/controllers/Quiz.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1121">
@@ -1153,17 +852,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="das://422e0f40-2a48-46af-aa2c-75444f66ee17/schema/jadeer_last/table/campus">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
+    <entry file="das://422e0f40-2a48-46af-aa2c-75444f66ee17/schema/jadeer_last/table/campus" />
+    <entry file="file://$PROJECT_DIR$/application/controllers/College.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-589">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/controllers/College.php">
+    <entry file="file://$PROJECT_DIR$/application/config/constants.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/foreign_chars.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/migrations/20171031090649_award_management.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="55" column="69" selection-start-line="55" selection-start-column="69" selection-end-line="55" selection-end-column="69" />
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/models/Criteria_Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/orm/orm_user.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8303">
+          <caret line="548" column="27" selection-start-line="548" selection-start-column="27" selection-end-line="548" selection-end-column="27" />
+          <folding>
+            <element signature="e#27#33#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/breadcrumbs.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/acl.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/autoload.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Reports.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="5" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/User.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Eaa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="27" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/migrations/20170605151443_data_roles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="34" selection-end-line="54" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="84" column="49" selection-start-line="84" selection-start-column="49" selection-end-line="84" selection-end-column="49" />
         </state>
       </provider>
     </entry>

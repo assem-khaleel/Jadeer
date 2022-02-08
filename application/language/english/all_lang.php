@@ -2806,5 +2806,3 @@ $lang['performances'] = 'Performances';
 $lang['dishonesty'] = 'Dishonesty';
 $lang['plagiarism'] = 'Plagiarism';
 $lang['student_projects'] = 'student projects';
-$lang['1'] = '1';
-$lang['1'] = '1';
